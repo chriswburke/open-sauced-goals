@@ -1,62 +1,68 @@
 [
   {
+    "full_name": "toeverything/AFFiNE",
+    "stargazers_count": 5914,
+    "open_issues_count": 35,
+    "forks_count": 219
+  },
+  {
     "full_name": "utmapp/UTM",
-    "stargazers_count": 14216,
-    "open_issues_count": 334,
-    "forks_count": 880
+    "stargazers_count": 14484,
+    "open_issues_count": 341,
+    "forks_count": 883
   },
   {
     "full_name": "mikaelvesavuori/figmagic",
-    "stargazers_count": 583,
+    "stargazers_count": 585,
     "open_issues_count": 11,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 8843,
-    "open_issues_count": 14,
-    "forks_count": 137
+    "stargazers_count": 9146,
+    "open_issues_count": 15,
+    "forks_count": 142
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 4813,
-    "open_issues_count": 8,
-    "forks_count": 127
+    "stargazers_count": 4883,
+    "open_issues_count": 4,
+    "forks_count": 130
   },
   {
     "full_name": "asmcss/assembler",
-    "stargazers_count": 179,
+    "stargazers_count": 183,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1482,
+    "stargazers_count": 1519,
     "open_issues_count": 7,
     "forks_count": 41
   },
   {
     "full_name": "nolimits4web/atropos",
-    "stargazers_count": 2054,
+    "stargazers_count": 2065,
     "open_issues_count": 4,
     "forks_count": 51
   },
   {
     "full_name": "reZach/secure-electron-template",
-    "stargazers_count": 1250,
+    "stargazers_count": 1253,
     "open_issues_count": 3,
     "forks_count": 117
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 25159,
-    "open_issues_count": 186,
-    "forks_count": 1013
+    "stargazers_count": 25512,
+    "open_issues_count": 196,
+    "forks_count": 1036
   },
   {
     "full_name": "withastro/compiler",
-    "stargazers_count": 127,
-    "open_issues_count": 29,
+    "stargazers_count": 134,
+    "open_issues_count": 32,
     "forks_count": 16
   },
   {
@@ -68,26 +74,26 @@
   {
     "full_name": "NativeScript/plugins",
     "stargazers_count": 125,
-    "open_issues_count": 89,
-    "forks_count": 80
+    "open_issues_count": 90,
+    "forks_count": 81
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 6396,
+    "stargazers_count": 6425,
     "open_issues_count": 12,
-    "forks_count": 242
+    "forks_count": 248
   },
   {
     "full_name": "neutralinojs/neutralinojs",
-    "stargazers_count": 5888,
-    "open_issues_count": 141,
+    "stargazers_count": 5894,
+    "open_issues_count": 143,
     "forks_count": 268
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 16556,
-    "open_issues_count": 256,
-    "forks_count": 4649
+    "stargazers_count": 16582,
+    "open_issues_count": 265,
+    "forks_count": 4655
   },
   {
     "full_name": "website-scraper/node-website-scraper",
@@ -104,7 +110,7 @@
   {
     "full_name": "drud/ddev",
     "stargazers_count": 1361,
-    "open_issues_count": 122,
+    "open_issues_count": 124,
     "forks_count": 374
   },
   {
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 865,
-    "open_issues_count": 15,
+    "stargazers_count": 883,
+    "open_issues_count": 13,
     "forks_count": 16
   },
   {
@@ -127,14 +133,14 @@
   },
   {
     "full_name": "zachleat/speedlify",
-    "stargazers_count": 721,
+    "stargazers_count": 723,
     "open_issues_count": 13,
     "forks_count": 121
   },
   {
     "full_name": "adobe/aio-theme",
     "stargazers_count": 39,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 33
   },
   {
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "alyssaxuu/screenity",
-    "stargazers_count": 7380,
-    "open_issues_count": 54,
+    "stargazers_count": 7393,
+    "open_issues_count": 55,
     "forks_count": 594
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 20178,
-    "open_issues_count": 2464,
-    "forks_count": 1680
+    "stargazers_count": 20255,
+    "open_issues_count": 2460,
+    "forks_count": 1683
   },
   {
     "full_name": "BuilderIO/partytown",
-    "stargazers_count": 8988,
+    "stargazers_count": 9018,
     "open_issues_count": 56,
-    "forks_count": 223
+    "forks_count": 225
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 3567,
-    "open_issues_count": 115,
+    "stargazers_count": 3575,
+    "open_issues_count": 114,
     "forks_count": 480
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 17163,
-    "open_issues_count": 132,
-    "forks_count": 720
-  },
-  {
-    "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 11714,
-    "open_issues_count": 16,
-    "forks_count": 594
+    "stargazers_count": 17216,
+    "open_issues_count": 133,
+    "forks_count": 719
   }
 ]
