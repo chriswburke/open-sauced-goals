@@ -1,33 +1,33 @@
 [
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 7945,
+    "stargazers_count": 8273,
     "open_issues_count": 41,
-    "forks_count": 304
+    "forks_count": 315
   },
   {
     "full_name": "utmapp/UTM",
-    "stargazers_count": 14652,
-    "open_issues_count": 359,
-    "forks_count": 889
+    "stargazers_count": 14699,
+    "open_issues_count": 358,
+    "forks_count": 890
   },
   {
     "full_name": "mikaelvesavuori/figmagic",
-    "stargazers_count": 586,
+    "stargazers_count": 587,
     "open_issues_count": 11,
     "forks_count": 61
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 9428,
-    "open_issues_count": 17,
-    "forks_count": 150
+    "stargazers_count": 9552,
+    "open_issues_count": 21,
+    "forks_count": 152
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5080,
+    "stargazers_count": 5113,
     "open_issues_count": 8,
-    "forks_count": 133
+    "forks_count": 136
   },
   {
     "full_name": "asmcss/assembler",
@@ -37,67 +37,67 @@
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1582,
+    "stargazers_count": 1616,
     "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "nolimits4web/atropos",
-    "stargazers_count": 2088,
+    "stargazers_count": 2101,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "reZach/secure-electron-template",
-    "stargazers_count": 1261,
+    "stargazers_count": 1263,
     "open_issues_count": 3,
     "forks_count": 117
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 26098,
-    "open_issues_count": 208,
-    "forks_count": 1081
+    "stargazers_count": 26353,
+    "open_issues_count": 221,
+    "forks_count": 1090
   },
   {
     "full_name": "withastro/compiler",
-    "stargazers_count": 137,
+    "stargazers_count": 158,
     "open_issues_count": 29,
     "forks_count": 16
   },
   {
     "full_name": "email-markup-consortium/email-markup-consortium",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "NativeScript/plugins",
-    "stargazers_count": 126,
+    "stargazers_count": 128,
     "open_issues_count": 88,
     "forks_count": 81
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 6553,
-    "open_issues_count": 11,
-    "forks_count": 256
+    "stargazers_count": 6596,
+    "open_issues_count": 17,
+    "forks_count": 264
   },
   {
     "full_name": "neutralinojs/neutralinojs",
-    "stargazers_count": 5912,
+    "stargazers_count": 5929,
     "open_issues_count": 144,
-    "forks_count": 268
+    "forks_count": 267
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 16620,
-    "open_issues_count": 267,
-    "forks_count": 4664
+    "stargazers_count": 16637,
+    "open_issues_count": 265,
+    "forks_count": 4666
   },
   {
     "full_name": "website-scraper/node-website-scraper",
-    "stargazers_count": 1247,
+    "stargazers_count": 1248,
     "open_issues_count": 7,
     "forks_count": 237
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1368,
-    "open_issues_count": 113,
-    "forks_count": 376
+    "stargazers_count": 1369,
+    "open_issues_count": 108,
+    "forks_count": 380
   },
   {
     "full_name": "barryanders/grav-plugin-blackhole",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 901,
-    "open_issues_count": 13,
+    "stargazers_count": 909,
+    "open_issues_count": 14,
     "forks_count": 16
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "alyssaxuu/screenity",
-    "stargazers_count": 7412,
-    "open_issues_count": 54,
-    "forks_count": 597
+    "stargazers_count": 7428,
+    "open_issues_count": 55,
+    "forks_count": 598
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 20436,
-    "open_issues_count": 2485,
-    "forks_count": 1700
+    "stargazers_count": 20516,
+    "open_issues_count": 2486,
+    "forks_count": 1708
   },
   {
     "full_name": "BuilderIO/partytown",
-    "stargazers_count": 9092,
-    "open_issues_count": 59,
-    "forks_count": 224
+    "stargazers_count": 9136,
+    "open_issues_count": 60,
+    "forks_count": 225
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 3602,
+    "stargazers_count": 3609,
     "open_issues_count": 55,
     "forks_count": 483
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 17304,
+    "stargazers_count": 17345,
     "open_issues_count": 133,
-    "forks_count": 721
+    "forks_count": 724
   }
 ]
