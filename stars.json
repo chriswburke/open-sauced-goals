@@ -1,62 +1,68 @@
 [
   {
+    "full_name": "withastro/rfcs",
+    "stargazers_count": 53,
+    "open_issues_count": 7,
+    "forks_count": 18
+  },
+  {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 2685,
-    "open_issues_count": 141,
-    "forks_count": 410
+    "stargazers_count": 2692,
+    "open_issues_count": 148,
+    "forks_count": 414
   },
   {
     "full_name": "lukasoppermann/design-tokens",
-    "stargazers_count": 588,
-    "open_issues_count": 21,
+    "stargazers_count": 591,
+    "open_issues_count": 22,
     "forks_count": 64
   },
   {
     "full_name": "NikolaRHristov/astro-critters",
-    "stargazers_count": 17,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "atomicojs/atomico",
-    "stargazers_count": 836,
-    "open_issues_count": 8,
-    "forks_count": 34
+    "stargazers_count": 843,
+    "open_issues_count": 9,
+    "forks_count": 35
   },
   {
     "full_name": "zinclabs/zinc",
-    "stargazers_count": 11677,
-    "open_issues_count": 38,
-    "forks_count": 497
+    "stargazers_count": 11726,
+    "open_issues_count": 44,
+    "forks_count": 502
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 9302,
-    "open_issues_count": 44,
-    "forks_count": 358
+    "stargazers_count": 9492,
+    "open_issues_count": 40,
+    "forks_count": 364
   },
   {
     "full_name": "utmapp/UTM",
-    "stargazers_count": 14971,
-    "open_issues_count": 360,
-    "forks_count": 901
+    "stargazers_count": 15029,
+    "open_issues_count": 366,
+    "forks_count": 903
   },
   {
     "full_name": "mikaelvesavuori/figmagic",
-    "stargazers_count": 591,
-    "open_issues_count": 11,
+    "stargazers_count": 592,
+    "open_issues_count": 10,
     "forks_count": 62
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 10004,
-    "open_issues_count": 24,
-    "forks_count": 162
+    "stargazers_count": 10042,
+    "open_issues_count": 19,
+    "forks_count": 166
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 5221,
-    "open_issues_count": 11,
+    "stargazers_count": 5228,
+    "open_issues_count": 9,
     "forks_count": 142
   },
   {
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1711,
+    "stargazers_count": 1731,
     "open_issues_count": 8,
     "forks_count": 44
   },
   {
     "full_name": "nolimits4web/atropos",
-    "stargazers_count": 2139,
+    "stargazers_count": 2142,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "reZach/secure-electron-template",
-    "stargazers_count": 1287,
+    "stargazers_count": 1289,
     "open_issues_count": 3,
     "forks_count": 119
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27026,
-    "open_issues_count": 215,
-    "forks_count": 1128
+    "stargazers_count": 27153,
+    "open_issues_count": 211,
+    "forks_count": 1130
   },
   {
     "full_name": "withastro/compiler",
-    "stargazers_count": 162,
-    "open_issues_count": 32,
-    "forks_count": 17
+    "stargazers_count": 165,
+    "open_issues_count": 33,
+    "forks_count": 18
   },
   {
     "full_name": "email-markup-consortium/email-markup-consortium",
@@ -104,30 +110,30 @@
   {
     "full_name": "NativeScript/plugins",
     "stargazers_count": 129,
-    "open_issues_count": 87,
+    "open_issues_count": 88,
     "forks_count": 82
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 7210,
-    "open_issues_count": 20,
-    "forks_count": 287
+    "stargazers_count": 7289,
+    "open_issues_count": 12,
+    "forks_count": 295
   },
   {
     "full_name": "neutralinojs/neutralinojs",
-    "stargazers_count": 5969,
+    "stargazers_count": 5975,
     "open_issues_count": 149,
     "forks_count": 270
   },
   {
     "full_name": "saleor/saleor",
-    "stargazers_count": 16728,
-    "open_issues_count": 273,
-    "forks_count": 4686
+    "stargazers_count": 16742,
+    "open_issues_count": 284,
+    "forks_count": 4693
   },
   {
     "full_name": "website-scraper/node-website-scraper",
-    "stargazers_count": 1255,
+    "stargazers_count": 1257,
     "open_issues_count": 6,
     "forks_count": 241
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1388,
-    "open_issues_count": 97,
-    "forks_count": 379
+    "stargazers_count": 1397,
+    "open_issues_count": 105,
+    "forks_count": 383
   },
   {
     "full_name": "barryanders/grav-plugin-blackhole",
@@ -151,8 +157,8 @@
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 956,
-    "open_issues_count": 13,
+    "stargazers_count": 966,
+    "open_issues_count": 14,
     "forks_count": 20
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "zachleat/speedlify",
-    "stargazers_count": 731,
+    "stargazers_count": 732,
     "open_issues_count": 14,
     "forks_count": 123
   },
   {
     "full_name": "adobe/aio-theme",
     "stargazers_count": 39,
-    "open_issues_count": 16,
+    "open_issues_count": 14,
     "forks_count": 33
-  },
-  {
-    "full_name": "AdobeDocs/commerce-pwa-studio",
-    "stargazers_count": 5,
-    "open_issues_count": 12,
-    "forks_count": 18
   }
 ]
