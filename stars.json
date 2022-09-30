@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "karanpratapsingh/system-design",
+    "stargazers_count": 12281,
+    "open_issues_count": 2,
+    "forks_count": 837
+  },
+  {
+    "full_name": "firstcontributions/first-contributions",
+    "stargazers_count": 27036,
+    "open_issues_count": 29,
+    "forks_count": 49275
+  },
+  {
+    "full_name": "Azure/azure-sdk-for-js",
+    "stargazers_count": 1399,
+    "open_issues_count": 1081,
+    "forks_count": 885
+  },
+  {
+    "full_name": "prisma/prisma",
+    "stargazers_count": 25937,
+    "open_issues_count": 2270,
+    "forks_count": 925
+  },
+  {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 7537,
-    "open_issues_count": 58,
-    "forks_count": 487
+    "stargazers_count": 7569,
+    "open_issues_count": 60,
+    "forks_count": 490
   },
   {
     "full_name": "jnv/lists",
-    "stargazers_count": 8418,
+    "stargazers_count": 8425,
     "open_issues_count": 0,
     "forks_count": 660
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 9141,
+    "stargazers_count": 9153,
     "open_issues_count": 2,
     "forks_count": 1197
   },
   {
     "full_name": "Lissy93/personal-security-checklist",
-    "stargazers_count": 9168,
+    "stargazers_count": 9190,
     "open_issues_count": 19,
-    "forks_count": 717
+    "forks_count": 718
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9193,
+    "stargazers_count": 9202,
     "open_issues_count": 57,
-    "forks_count": 981
+    "forks_count": 983
   },
   {
     "full_name": "aniftyco/awesome-tailwindcss",
-    "stargazers_count": 9547,
+    "stargazers_count": 9563,
     "open_issues_count": 2,
     "forks_count": 746
   },
   {
     "full_name": "terkelg/awesome-creative-coding",
-    "stargazers_count": 10041,
+    "stargazers_count": 10055,
     "open_issues_count": 23,
     "forks_count": 776
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10278,
+    "stargazers_count": 10291,
     "open_issues_count": 20,
     "forks_count": 2429
   },
   {
     "full_name": "agarrharr/awesome-cli-apps",
-    "stargazers_count": 10093,
-    "open_issues_count": 34,
+    "stargazers_count": 10109,
+    "open_issues_count": 35,
     "forks_count": 721
   },
   {
     "full_name": "neutraltone/awesome-stock-resources",
-    "stargazers_count": 10942,
+    "stargazers_count": 10957,
     "open_issues_count": 24,
-    "forks_count": 748
+    "forks_count": 749
   },
   {
     "full_name": "rShetty/awesome-podcasts",
-    "stargazers_count": 11099,
-    "open_issues_count": 2,
-    "forks_count": 632
+    "stargazers_count": 11104,
+    "open_issues_count": 3,
+    "forks_count": 633
   },
   {
     "full_name": "newTendermint/awesome-bigdata",
-    "stargazers_count": 11260,
+    "stargazers_count": 11264,
     "open_issues_count": 30,
-    "forks_count": 2447
+    "forks_count": 2450
   },
   {
     "full_name": "unixorn/awesome-zsh-plugins",
-    "stargazers_count": 11615,
-    "open_issues_count": 4,
-    "forks_count": 479
+    "stargazers_count": 11629,
+    "open_issues_count": 5,
+    "forks_count": 478
   },
   {
     "full_name": "phanan/htaccess",
-    "stargazers_count": 12150,
+    "stargazers_count": 12159,
     "open_issues_count": 9,
-    "forks_count": 1310
+    "forks_count": 1312
   },
   {
     "full_name": "matiassingers/awesome-readme",
-    "stargazers_count": 12941,
+    "stargazers_count": 12958,
     "open_issues_count": 4,
-    "forks_count": 3355
+    "forks_count": 3357
   },
   {
     "full_name": "JaeYeopHan/Interview_Question_for_Beginner",
-    "stargazers_count": 13849,
+    "stargazers_count": 13879,
     "open_issues_count": 20,
-    "forks_count": 3779
+    "forks_count": 3787
   },
   {
     "full_name": "gztchan/awesome-design",
-    "stargazers_count": 13983,
+    "stargazers_count": 13994,
     "open_issues_count": 28,
-    "forks_count": 1148
+    "forks_count": 1147
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 14560,
-    "open_issues_count": 382,
-    "forks_count": 2539
+    "stargazers_count": 14610,
+    "open_issues_count": 383,
+    "forks_count": 2555
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 16882,
-    "open_issues_count": 29,
+    "stargazers_count": 16902,
+    "open_issues_count": 30,
     "forks_count": 4078
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 17258,
+    "stargazers_count": 17290,
     "open_issues_count": 165,
-    "forks_count": 4140
+    "forks_count": 4142
   },
   {
     "full_name": "DovAmir/awesome-design-patterns",
-    "stargazers_count": 17291,
+    "stargazers_count": 17334,
     "open_issues_count": 7,
-    "forks_count": 1479
+    "forks_count": 1480
   },
   {
     "full_name": "kdeldycke/awesome-falsehood",
-    "stargazers_count": 18894,
+    "stargazers_count": 18908,
     "open_issues_count": 2,
-    "forks_count": 471
+    "forks_count": 472
   },
   {
     "full_name": "ChristosChristofidis/awesome-deep-learning",
-    "stargazers_count": 19479,
+    "stargazers_count": 19496,
     "open_issues_count": 23,
-    "forks_count": 5717
+    "forks_count": 5719
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 19695,
+    "stargazers_count": 19720,
     "open_issues_count": 102,
-    "forks_count": 1280
+    "forks_count": 1282
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 20105,
+    "stargazers_count": 20132,
     "open_issues_count": 61,
-    "forks_count": 1874
+    "forks_count": 1878
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 21084,
+    "stargazers_count": 21096,
     "open_issues_count": 64,
-    "forks_count": 1134
-  },
-  {
-    "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 22928,
-    "open_issues_count": 1,
-    "forks_count": 2631
-  },
-  {
-    "full_name": "alebcay/awesome-shell",
-    "stargazers_count": 24924,
-    "open_issues_count": 81,
-    "forks_count": 2169
-  },
-  {
-    "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 26244,
-    "open_issues_count": 67,
-    "forks_count": 1927
-  },
-  {
-    "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 28781,
-    "open_issues_count": 9,
-    "forks_count": 1920
+    "forks_count": 1135
   }
 ]
