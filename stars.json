@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "alexcambose/motus",
+    "stargazers_count": 573,
+    "open_issues_count": 32,
+    "forks_count": 36
+  },
+  {
+    "full_name": "withastro/action",
+    "stargazers_count": 50,
+    "open_issues_count": 4,
+    "forks_count": 8
+  },
+  {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 16816,
+    "stargazers_count": 17613,
     "open_issues_count": 1,
-    "forks_count": 917
+    "forks_count": 958
   },
   {
     "full_name": "neutralinojs/neutralino.js",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 24,
     "forks_count": 15
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 4081,
+    "stargazers_count": 4090,
     "open_issues_count": 6,
-    "forks_count": 572
+    "forks_count": 571
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 6714,
-    "open_issues_count": 45,
-    "forks_count": 456
+    "stargazers_count": 6728,
+    "open_issues_count": 46,
+    "forks_count": 457
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 5838,
+    "stargazers_count": 5855,
     "open_issues_count": 218,
-    "forks_count": 988
+    "forks_count": 990
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 8555,
-    "open_issues_count": 34,
-    "forks_count": 123
+    "stargazers_count": 8614,
+    "open_issues_count": 32,
+    "forks_count": 124
   },
   {
     "full_name": "sindresorhus/clean-stack",
@@ -49,134 +61,122 @@
   },
   {
     "full_name": "grahampugh/erase-install",
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 17,
     "forks_count": 97
   },
   {
     "full_name": "usnistgov/macos_security",
-    "stargazers_count": 992,
-    "open_issues_count": 11,
-    "forks_count": 126
+    "stargazers_count": 1005,
+    "open_issues_count": 13,
+    "forks_count": 127
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13735,
+    "stargazers_count": 13801,
     "open_issues_count": 2,
-    "forks_count": 1065
+    "forks_count": 1078
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 30315,
-    "open_issues_count": 135,
-    "forks_count": 54681
+    "stargazers_count": 30350,
+    "open_issues_count": 57,
+    "forks_count": 54749
   },
   {
     "full_name": "Azure/azure-sdk-for-js",
-    "stargazers_count": 1456,
-    "open_issues_count": 1179,
-    "forks_count": 919
+    "stargazers_count": 1459,
+    "open_issues_count": 1161,
+    "forks_count": 920
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 27306,
-    "open_issues_count": 2398,
-    "forks_count": 971
+    "stargazers_count": 27401,
+    "open_issues_count": 2408,
+    "forks_count": 974
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 8413,
-    "open_issues_count": 52,
-    "forks_count": 588
+    "stargazers_count": 8446,
+    "open_issues_count": 53,
+    "forks_count": 592
   },
   {
     "full_name": "jnv/lists",
-    "stargazers_count": 8555,
+    "stargazers_count": 8565,
     "open_issues_count": 0,
     "forks_count": 664
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 9381,
+    "stargazers_count": 9394,
     "open_issues_count": 2,
-    "forks_count": 1214
+    "forks_count": 1216
   },
   {
     "full_name": "Lissy93/personal-security-checklist",
-    "stargazers_count": 10071,
-    "open_issues_count": 21,
-    "forks_count": 762
+    "stargazers_count": 10094,
+    "open_issues_count": 22,
+    "forks_count": 769
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9489,
+    "stargazers_count": 9500,
     "open_issues_count": 83,
     "forks_count": 1023
   },
   {
     "full_name": "aniftyco/awesome-tailwindcss",
-    "stargazers_count": 9940,
+    "stargazers_count": 9964,
     "open_issues_count": 1,
-    "forks_count": 763
+    "forks_count": 765
   },
   {
     "full_name": "terkelg/awesome-creative-coding",
-    "stargazers_count": 10320,
+    "stargazers_count": 10334,
     "open_issues_count": 26,
-    "forks_count": 793
+    "forks_count": 794
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10534,
+    "stargazers_count": 10549,
     "open_issues_count": 23,
-    "forks_count": 2455
+    "forks_count": 2459
   },
   {
     "full_name": "agarrharr/awesome-cli-apps",
-    "stargazers_count": 10462,
+    "stargazers_count": 10480,
     "open_issues_count": 37,
     "forks_count": 730
   },
   {
     "full_name": "neutraltone/awesome-stock-resources",
-    "stargazers_count": 11152,
+    "stargazers_count": 11164,
     "open_issues_count": 27,
-    "forks_count": 755
+    "forks_count": 756
   },
   {
     "full_name": "rShetty/awesome-podcasts",
-    "stargazers_count": 11213,
+    "stargazers_count": 11219,
     "open_issues_count": 4,
     "forks_count": 634
   },
   {
     "full_name": "newTendermint/awesome-bigdata",
-    "stargazers_count": 11453,
+    "stargazers_count": 11471,
     "open_issues_count": 30,
-    "forks_count": 2457
+    "forks_count": 2458
   },
   {
     "full_name": "unixorn/awesome-zsh-plugins",
-    "stargazers_count": 11981,
+    "stargazers_count": 11997,
     "open_issues_count": 4,
-    "forks_count": 485
+    "forks_count": 484
   },
   {
     "full_name": "phanan/htaccess",
-    "stargazers_count": 12233,
+    "stargazers_count": 12239,
     "open_issues_count": 9,
     "forks_count": 1324
-  },
-  {
-    "full_name": "matiassingers/awesome-readme",
-    "stargazers_count": 13397,
-    "open_issues_count": 4,
-    "forks_count": 3455
-  },
-  {
-    "full_name": "JaeYeopHan/Interview_Question_for_Beginner",
-    "stargazers_count": 14565,
-    "open_issues_count": 21,
-    "forks_count": 3922
   }
 ]
