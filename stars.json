@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "MarsX-dev/floatui",
+    "stargazers_count": 807,
+    "open_issues_count": 0,
+    "forks_count": 106
+  },
+  {
     "full_name": "vite-pwa/astro",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "creepymonster/GlucoseDirect",
-    "stargazers_count": 139,
-    "open_issues_count": 24,
-    "forks_count": 45
+    "stargazers_count": 140,
+    "open_issues_count": 25,
+    "forks_count": 46
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 9291,
-    "open_issues_count": 108,
-    "forks_count": 462
+    "stargazers_count": 9484,
+    "open_issues_count": 110,
+    "forks_count": 474
   },
   {
     "full_name": "phntxx/dashboard",
-    "stargazers_count": 785,
+    "stargazers_count": 790,
     "open_issues_count": 27,
     "forks_count": 45
   },
   {
     "full_name": "littlesticks/astro-sanity",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -37,27 +43,27 @@
   },
   {
     "full_name": "astro-community/astro-compress",
-    "stargazers_count": 196,
+    "stargazers_count": 199,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 501,
-    "open_issues_count": 0,
-    "forks_count": 111
+    "stargazers_count": 511,
+    "open_issues_count": 2,
+    "forks_count": 112
   },
   {
     "full_name": "surjithctly/astroship",
-    "stargazers_count": 412,
+    "stargazers_count": 415,
     "open_issues_count": 2,
-    "forks_count": 71
+    "forks_count": 73
   },
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 750,
+    "stargazers_count": 758,
     "open_issues_count": 9,
-    "forks_count": 180
+    "forks_count": 184
   },
   {
     "full_name": "aem-vite/aem-vite",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 16411,
-    "open_issues_count": 781,
-    "forks_count": 1401
+    "stargazers_count": 16529,
+    "open_issues_count": 780,
+    "forks_count": 1407
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 31126,
-    "open_issues_count": 874,
-    "forks_count": 2637
+    "stargazers_count": 31315,
+    "open_issues_count": 872,
+    "forks_count": 2650
   },
   {
     "full_name": "unicorn-utterances/unicorn-utterances",
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "awesome-lists/awesome-bash",
-    "stargazers_count": 5932,
+    "stargazers_count": 5936,
     "open_issues_count": 22,
-    "forks_count": 651
+    "forks_count": 652
   },
   {
     "full_name": "storyblok/storyblok-astro",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 10,
     "forks_count": 11
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 5579,
-    "open_issues_count": 39,
-    "forks_count": 134
+    "stargazers_count": 5590,
+    "open_issues_count": 40,
+    "forks_count": 133
   },
   {
     "full_name": "alexcambose/motus",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "withastro/action",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 19291,
+    "stargazers_count": 19302,
     "open_issues_count": 0,
     "forks_count": 1059
   },
@@ -133,25 +139,25 @@
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 4391,
+    "stargazers_count": 4398,
     "open_issues_count": 7,
-    "forks_count": 591
+    "forks_count": 595
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7459,
-    "open_issues_count": 52,
-    "forks_count": 496
+    "stargazers_count": 7472,
+    "open_issues_count": 51,
+    "forks_count": 497
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 6278,
+    "stargazers_count": 6292,
     "open_issues_count": 229,
-    "forks_count": 1068
+    "forks_count": 1070
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 10021,
+    "stargazers_count": 10058,
     "open_issues_count": 51,
     "forks_count": 157
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "grahampugh/erase-install",
-    "stargazers_count": 625,
+    "stargazers_count": 626,
     "open_issues_count": 9,
     "forks_count": 110
-  },
-  {
-    "full_name": "usnistgov/macos_security",
-    "stargazers_count": 1116,
-    "open_issues_count": 18,
-    "forks_count": 140
   }
 ]
