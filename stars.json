@@ -1,93 +1,93 @@
 [
   {
     "full_name": "sanity-io/sanity-template-astro-clean",
-    "stargazers_count": 22,
-    "open_issues_count": 2,
-    "forks_count": 1
+    "stargazers_count": 24,
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "motiondivision/motionone",
-    "stargazers_count": 1475,
-    "open_issues_count": 60,
-    "forks_count": 28
+    "stargazers_count": 1511,
+    "open_issues_count": 63,
+    "forks_count": 29
   },
   {
     "full_name": "hwchase17/langchain",
-    "stargazers_count": 49747,
-    "open_issues_count": 1970,
-    "forks_count": 6163
+    "stargazers_count": 50533,
+    "open_issues_count": 2029,
+    "forks_count": 6294
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 1874,
+    "stargazers_count": 1912,
     "open_issues_count": 25,
-    "forks_count": 119
+    "forks_count": 122
   },
   {
     "full_name": "zckly/dynamic-interface-web",
-    "stargazers_count": 282,
+    "stargazers_count": 281,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "argosopentech/argos-translate",
-    "stargazers_count": 2012,
+    "stargazers_count": 2020,
     "open_issues_count": 54,
     "forks_count": 149
   },
   {
     "full_name": "hocus-dev/hocus",
-    "stargazers_count": 2467,
-    "open_issues_count": 20,
+    "stargazers_count": 2474,
+    "open_issues_count": 21,
     "forks_count": 45
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 21862,
-    "open_issues_count": 140,
-    "forks_count": 1568
+    "stargazers_count": 21884,
+    "open_issues_count": 155,
+    "forks_count": 1570
   },
   {
     "full_name": "stitchesjs/stitches",
-    "stargazers_count": 7519,
-    "open_issues_count": 122,
-    "forks_count": 233
+    "stargazers_count": 7522,
+    "open_issues_count": 121,
+    "forks_count": 236
   },
   {
     "full_name": "radix-ui/design-system",
-    "stargazers_count": 2023,
+    "stargazers_count": 2032,
     "open_issues_count": 15,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 10347,
-    "open_issues_count": 206,
-    "forks_count": 417
+    "stargazers_count": 10412,
+    "open_issues_count": 211,
+    "forks_count": 422
   },
   {
     "full_name": "microsoft/fast",
-    "stargazers_count": 8395,
-    "open_issues_count": 353,
-    "forks_count": 550
+    "stargazers_count": 8403,
+    "open_issues_count": 351,
+    "forks_count": 552
   },
   {
     "full_name": "michael/editable-website",
-    "stargazers_count": 853,
+    "stargazers_count": 857,
     "open_issues_count": 8,
     "forks_count": 54
   },
   {
     "full_name": "markteekman/accessible-astro-components",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "MarsX-dev/floatui",
-    "stargazers_count": 1896,
-    "open_issues_count": 9,
-    "forks_count": 249
+    "stargazers_count": 1932,
+    "open_issues_count": 12,
+    "forks_count": 258
   },
   {
     "full_name": "vite-pwa/astro",
@@ -103,51 +103,51 @@
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 11637,
+    "stargazers_count": 11731,
     "open_issues_count": 176,
-    "forks_count": 594
+    "forks_count": 599
   },
   {
     "full_name": "phntxx/dashboard",
-    "stargazers_count": 831,
+    "stargazers_count": 832,
     "open_issues_count": 29,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "littlesticks/astro-sanity",
-    "stargazers_count": 82,
+    "stargazers_count": 85,
     "open_issues_count": 7,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "codiume/orbit",
-    "stargazers_count": 112,
-    "open_issues_count": 4,
+    "stargazers_count": 114,
+    "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "astro-community/astro-compress",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 796,
+    "stargazers_count": 803,
     "open_issues_count": 8,
-    "forks_count": 169
+    "forks_count": 171
   },
   {
     "full_name": "surjithctly/astroship",
-    "stargazers_count": 524,
+    "stargazers_count": 526,
     "open_issues_count": 2,
-    "forks_count": 110
+    "forks_count": 112
   },
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 1004,
+    "stargazers_count": 1035,
     "open_issues_count": 0,
-    "forks_count": 248
+    "forks_count": 252
   },
   {
     "full_name": "aem-vite/aem-vite",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 17607,
-    "open_issues_count": 877,
+    "stargazers_count": 17634,
+    "open_issues_count": 882,
     "forks_count": 1488
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 34607,
-    "open_issues_count": 934,
-    "forks_count": 2990
+    "stargazers_count": 34722,
+    "open_issues_count": 933,
+    "forks_count": 3000
   },
   {
     "full_name": "unicorn-utterances/unicorn-utterances",
-    "stargazers_count": 63,
-    "open_issues_count": 37,
-    "forks_count": 35
+    "stargazers_count": 64,
+    "open_issues_count": 39,
+    "forks_count": 34
   }
 ]
