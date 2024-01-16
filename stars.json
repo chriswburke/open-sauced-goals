@@ -7,15 +7,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 6977,
-    "open_issues_count": 306,
+    "stargazers_count": 6985,
+    "open_issues_count": 305,
     "forks_count": 563
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 4936,
+    "stargazers_count": 4948,
     "open_issues_count": 6,
-    "forks_count": 978
+    "forks_count": 987
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2369,
+    "stargazers_count": 2372,
     "open_issues_count": 9,
     "forks_count": 131
   },
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2096,
-    "open_issues_count": 109,
-    "forks_count": 573
+    "stargazers_count": 2105,
+    "open_issues_count": 110,
+    "forks_count": 574
   },
   {
     "full_name": "vitejs/vite-plugin-vue2",
-    "stargazers_count": 508,
+    "stargazers_count": 509,
     "open_issues_count": 40,
     "forks_count": 46
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 1607,
-    "open_issues_count": 35,
-    "forks_count": 73
+    "stargazers_count": 1685,
+    "open_issues_count": 31,
+    "forks_count": 75
   },
   {
     "full_name": "ethack/docker-vpn",
@@ -86,74 +86,74 @@
   {
     "full_name": "sanity-io/sanity-astro",
     "stargazers_count": 43,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 7
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 2748,
-    "open_issues_count": 16,
-    "forks_count": 263
+    "stargazers_count": 2759,
+    "open_issues_count": 17,
+    "forks_count": 264
   },
   {
     "full_name": "s5no5t/contentful-clean-space",
     "stargazers_count": 54,
     "open_issues_count": 6,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 8371,
+    "stargazers_count": 8380,
     "open_issues_count": 57,
-    "forks_count": 878
+    "forks_count": 880
   },
   {
     "full_name": "thomasKn/astro-shopify",
-    "stargazers_count": 196,
+    "stargazers_count": 202,
     "open_issues_count": 3,
     "forks_count": 64
   },
   {
     "full_name": "groepl/Obsidian-Templates",
-    "stargazers_count": 350,
+    "stargazers_count": 355,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "MarconLP/snapify",
-    "stargazers_count": 523,
+    "stargazers_count": 526,
     "open_issues_count": 19,
     "forks_count": 65
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 4404,
-    "open_issues_count": 81,
-    "forks_count": 109
+    "stargazers_count": 4453,
+    "open_issues_count": 86,
+    "forks_count": 112
   },
   {
     "full_name": "sanity-io/sanity-template-astro-clean",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "motiondivision/motionone",
-    "stargazers_count": 2102,
+    "stargazers_count": 2110,
     "open_issues_count": 56,
-    "forks_count": 46
+    "forks_count": 48
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 73661,
-    "open_issues_count": 2213,
-    "forks_count": 11056
+    "stargazers_count": 73996,
+    "open_issues_count": 2222,
+    "forks_count": 11138
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 3157,
-    "open_issues_count": 21,
-    "forks_count": 210
+    "stargazers_count": 3184,
+    "open_issues_count": 26,
+    "forks_count": 211
   },
   {
     "full_name": "zckly/dynamic-interface-web",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "argosopentech/argos-translate",
-    "stargazers_count": 2901,
+    "stargazers_count": 2906,
     "open_issues_count": 73,
     "forks_count": 212
   },
   {
     "full_name": "hocus-dev/hocus",
-    "stargazers_count": 3031,
+    "stargazers_count": 3038,
     "open_issues_count": 19,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 23300,
-    "open_issues_count": 114,
-    "forks_count": 1687
+    "stargazers_count": 23317,
+    "open_issues_count": 117,
+    "forks_count": 1689
   }
 ]
