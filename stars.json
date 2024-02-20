@@ -1,21 +1,21 @@
 [
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 182,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 15667,
-    "open_issues_count": 1671,
-    "forks_count": 932
+    "stargazers_count": 15717,
+    "open_issues_count": 1692,
+    "forks_count": 934
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 9522,
+    "stargazers_count": 9579,
     "open_issues_count": 406,
-    "forks_count": 1036
+    "forks_count": 1038
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7038,
-    "open_issues_count": 307,
+    "stargazers_count": 7041,
+    "open_issues_count": 311,
     "forks_count": 571
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 5126,
-    "open_issues_count": 6,
-    "forks_count": 1076
+    "stargazers_count": 5142,
+    "open_issues_count": 7,
+    "forks_count": 1083
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -44,14 +44,14 @@
   {
     "full_name": "aws-samples/amplify-authentication-for-astro",
     "stargazers_count": 5,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "hashicorp/mdns",
     "stargazers_count": 1098,
-    "open_issues_count": 40,
-    "forks_count": 207
+    "open_issues_count": 43,
+    "forks_count": 208
   },
   {
     "full_name": "rollup/awesome",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2158,
-    "open_issues_count": 111,
+    "stargazers_count": 2161,
+    "open_issues_count": 112,
     "forks_count": 582
   },
   {
     "full_name": "vitejs/vite-plugin-vue2",
     "stargazers_count": 515,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 46
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 2050,
-    "open_issues_count": 33,
-    "forks_count": 101
+    "stargazers_count": 2086,
+    "open_issues_count": 37,
+    "forks_count": 104
   },
   {
     "full_name": "ethack/docker-vpn",
@@ -104,13 +104,13 @@
   {
     "full_name": "sanity-io/sanity-astro",
     "stargazers_count": 48,
-    "open_issues_count": 23,
+    "open_issues_count": 21,
     "forks_count": 8
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 2855,
-    "open_issues_count": 21,
+    "stargazers_count": 2861,
+    "open_issues_count": 20,
     "forks_count": 275
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 8508,
-    "open_issues_count": 63,
-    "forks_count": 889
+    "stargazers_count": 8511,
+    "open_issues_count": 64,
+    "forks_count": 887
   },
   {
     "full_name": "thomasKn/astro-shopify",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 3,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "groepl/Obsidian-Templates",
-    "stargazers_count": 400,
+    "stargazers_count": 404,
     "open_issues_count": 1,
     "forks_count": 52
   },
@@ -141,12 +141,12 @@
     "full_name": "MarconLP/snapify",
     "stargazers_count": 549,
     "open_issues_count": 20,
-    "forks_count": 69
+    "forks_count": 71
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 4817,
-    "open_issues_count": 98,
+    "stargazers_count": 4832,
+    "open_issues_count": 96,
     "forks_count": 129
   },
   {
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "motiondivision/motionone",
-    "stargazers_count": 2188,
+    "stargazers_count": 2192,
     "open_issues_count": 58,
     "forks_count": 50
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 76529,
+    "stargazers_count": 76868,
     "open_issues_count": 1836,
-    "forks_count": 11732
+    "forks_count": 11808
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 3347,
-    "open_issues_count": 43,
-    "forks_count": 224
+    "stargazers_count": 3365,
+    "open_issues_count": 45,
+    "forks_count": 228
   },
   {
     "full_name": "zckly/dynamic-interface-web",
