@@ -1,21 +1,21 @@
 [
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 15717,
+    "stargazers_count": 15785,
     "open_issues_count": 1692,
-    "forks_count": 934
+    "forks_count": 926
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 9579,
-    "open_issues_count": 406,
-    "forks_count": 1038
+    "stargazers_count": 9619,
+    "open_issues_count": 415,
+    "forks_count": 1028
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7041,
-    "open_issues_count": 311,
+    "stargazers_count": 7039,
+    "open_issues_count": 309,
     "forks_count": 571
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 5142,
-    "open_issues_count": 7,
-    "forks_count": 1083
+    "stargazers_count": 5159,
+    "open_issues_count": 8,
+    "forks_count": 1068
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -44,7 +44,7 @@
   {
     "full_name": "aws-samples/amplify-authentication-for-astro",
     "stargazers_count": 5,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2396,
+    "stargazers_count": 2399,
     "open_issues_count": 9,
     "forks_count": 133
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2161,
-    "open_issues_count": 112,
+    "stargazers_count": 2163,
+    "open_issues_count": 111,
     "forks_count": 582
   },
   {
     "full_name": "vitejs/vite-plugin-vue2",
-    "stargazers_count": 515,
+    "stargazers_count": 516,
     "open_issues_count": 42,
-    "forks_count": 46
+    "forks_count": 44
   },
   {
     "full_name": "andraan/aem-react-vite",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 2086,
-    "open_issues_count": 37,
+    "stargazers_count": 2127,
+    "open_issues_count": 31,
     "forks_count": 104
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 2861,
+    "stargazers_count": 2864,
     "open_issues_count": 20,
     "forks_count": 275
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 8511,
-    "open_issues_count": 64,
-    "forks_count": 887
+    "stargazers_count": 8523,
+    "open_issues_count": 66,
+    "forks_count": 857
   },
   {
     "full_name": "thomasKn/astro-shopify",
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "groepl/Obsidian-Templates",
-    "stargazers_count": 404,
+    "stargazers_count": 411,
     "open_issues_count": 1,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "MarconLP/snapify",
-    "stargazers_count": 549,
+    "stargazers_count": 555,
     "open_issues_count": 20,
     "forks_count": 71
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 4832,
-    "open_issues_count": 96,
-    "forks_count": 129
+    "stargazers_count": 4854,
+    "open_issues_count": 95,
+    "forks_count": 132
   },
   {
     "full_name": "sanity-io/sanity-template-astro-clean",
-    "stargazers_count": 69,
-    "open_issues_count": 13,
+    "stargazers_count": 70,
+    "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "motiondivision/motionone",
-    "stargazers_count": 2192,
-    "open_issues_count": 58,
+    "stargazers_count": 2198,
+    "open_issues_count": 59,
     "forks_count": 50
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 76868,
-    "open_issues_count": 1836,
-    "forks_count": 11808
+    "stargazers_count": 77199,
+    "open_issues_count": 1823,
+    "forks_count": 11566
   },
   {
     "full_name": "htmlstreamofficial/preline",
-    "stargazers_count": 3365,
+    "stargazers_count": 3375,
     "open_issues_count": 45,
-    "forks_count": 228
+    "forks_count": 227
   },
   {
     "full_name": "zckly/dynamic-interface-web",
