@@ -1,63 +1,63 @@
 [
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 57157,
+    "stargazers_count": 57497,
     "open_issues_count": 39,
-    "forks_count": 5851
+    "forks_count": 5904
   },
   {
     "full_name": "divriots/jampack",
-    "stargazers_count": 1539,
+    "stargazers_count": 1540,
     "open_issues_count": 8,
     "forks_count": 22
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 15486,
-    "open_issues_count": 162,
-    "forks_count": 405
+    "stargazers_count": 15577,
+    "open_issues_count": 158,
+    "forks_count": 406
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 847,
-    "open_issues_count": 32,
+    "stargazers_count": 856,
+    "open_issues_count": 33,
     "forks_count": 28
   },
   {
     "full_name": "stevenvachon/broken-link-checker",
     "stargazers_count": 1876,
     "open_issues_count": 77,
-    "forks_count": 293
+    "forks_count": 294
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 13748,
-    "open_issues_count": 195,
-    "forks_count": 1636
+    "stargazers_count": 13783,
+    "open_issues_count": 188,
+    "forks_count": 1640
   },
   {
     "full_name": "gitwonk/gitwonk",
-    "stargazers_count": 469,
+    "stargazers_count": 471,
     "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 206,
+    "stargazers_count": 209,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 17386,
-    "open_issues_count": 1463,
-    "forks_count": 1033
+    "stargazers_count": 17461,
+    "open_issues_count": 1478,
+    "forks_count": 1039
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 11850,
-    "open_issues_count": 482,
-    "forks_count": 1101
+    "stargazers_count": 11914,
+    "open_issues_count": 485,
+    "forks_count": 1102
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7135,
-    "open_issues_count": 312,
-    "forks_count": 574
+    "stargazers_count": 7138,
+    "open_issues_count": 313,
+    "forks_count": 573
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 5536,
+    "stargazers_count": 5551,
     "open_issues_count": 5,
-    "forks_count": 1261
+    "forks_count": 1273
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "hashicorp/mdns",
-    "stargazers_count": 1127,
+    "stargazers_count": 1128,
     "open_issues_count": 38,
     "forks_count": 208
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2449,
+    "stargazers_count": 2451,
     "open_issues_count": 14,
     "forks_count": 132
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2267,
-    "open_issues_count": 126,
+    "stargazers_count": 2272,
+    "open_issues_count": 127,
     "forks_count": 590
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 2973,
-    "open_issues_count": 55,
-    "forks_count": 160
+    "stargazers_count": 3006,
+    "open_issues_count": 56,
+    "forks_count": 164
   },
   {
     "full_name": "ethack/docker-vpn",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "sanity-io/sanity-astro",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 19,
     "forks_count": 9
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 3068,
-    "open_issues_count": 31,
-    "forks_count": 283
+    "stargazers_count": 3075,
+    "open_issues_count": 32,
+    "forks_count": 284
   },
   {
     "full_name": "s5no5t/contentful-clean-space",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 8830,
+    "stargazers_count": 8849,
     "open_issues_count": 66,
     "forks_count": 890
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "groepl/Obsidian-Templates",
-    "stargazers_count": 526,
+    "stargazers_count": 531,
     "open_issues_count": 0,
-    "forks_count": 63
+    "forks_count": 64
   }
 ]
