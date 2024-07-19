@@ -7,9 +7,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 60573,
+    "stargazers_count": 60689,
     "open_issues_count": 37,
-    "forks_count": 6246
+    "forks_count": 6270
   },
   {
     "full_name": "divriots/jampack",
@@ -19,69 +19,69 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 17079,
-    "open_issues_count": 180,
-    "forks_count": 475
+    "stargazers_count": 17136,
+    "open_issues_count": 182,
+    "forks_count": 481
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1148,
+    "stargazers_count": 1155,
     "open_issues_count": 31,
     "forks_count": 34
   },
   {
     "full_name": "stevenvachon/broken-link-checker",
-    "stargazers_count": 1924,
+    "stargazers_count": 1925,
     "open_issues_count": 77,
     "forks_count": 298
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 14644,
-    "open_issues_count": 121,
-    "forks_count": 1716
+    "stargazers_count": 14689,
+    "open_issues_count": 116,
+    "forks_count": 1718
   },
   {
     "full_name": "gitwonk/gitwonk",
-    "stargazers_count": 486,
+    "stargazers_count": 487,
     "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 241,
+    "stargazers_count": 243,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 19591,
-    "open_issues_count": 1484,
-    "forks_count": 1146
+    "stargazers_count": 19637,
+    "open_issues_count": 1482,
+    "forks_count": 1151
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 12825,
-    "open_issues_count": 505,
-    "forks_count": 1147
+    "stargazers_count": 12848,
+    "open_issues_count": 508,
+    "forks_count": 1148
   },
   {
     "full_name": "webiny/webiny-examples",
     "stargazers_count": 44,
     "open_issues_count": 93,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7230,
-    "open_issues_count": 312,
+    "stargazers_count": 7234,
+    "open_issues_count": 313,
     "forks_count": 590
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 5812,
+    "stargazers_count": 5834,
     "open_issues_count": 2,
-    "forks_count": 1449
+    "forks_count": 1455
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -93,11 +93,11 @@
     "full_name": "aws-samples/amplify-authentication-for-astro",
     "stargazers_count": 9,
     "open_issues_count": 5,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "hashicorp/mdns",
-    "stargazers_count": 1154,
+    "stargazers_count": 1155,
     "open_issues_count": 38,
     "forks_count": 209
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2347,
-    "open_issues_count": 130,
+    "stargazers_count": 2353,
+    "open_issues_count": 134,
     "forks_count": 598
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 3699,
-    "open_issues_count": 60,
-    "forks_count": 209
+    "stargazers_count": 3734,
+    "open_issues_count": 68,
+    "forks_count": 210
   },
   {
     "full_name": "ethack/docker-vpn",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 3266,
+    "stargazers_count": 3273,
     "open_issues_count": 22,
-    "forks_count": 306
+    "forks_count": 308
   },
   {
     "full_name": "s5no5t/contentful-clean-space",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 9137,
-    "open_issues_count": 80,
-    "forks_count": 915
+    "stargazers_count": 9145,
+    "open_issues_count": 81,
+    "forks_count": 917
   },
   {
     "full_name": "thomasKn/astro-shopify",
-    "stargazers_count": 272,
+    "stargazers_count": 273,
     "open_issues_count": 4,
     "forks_count": 85
   }
