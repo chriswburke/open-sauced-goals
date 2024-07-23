@@ -7,62 +7,62 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 60689,
+    "stargazers_count": 60790,
     "open_issues_count": 37,
-    "forks_count": 6270
+    "forks_count": 6279
   },
   {
     "full_name": "divriots/jampack",
-    "stargazers_count": 1597,
+    "stargazers_count": 1599,
     "open_issues_count": 19,
     "forks_count": 22
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 17136,
-    "open_issues_count": 182,
-    "forks_count": 481
+    "stargazers_count": 17203,
+    "open_issues_count": 177,
+    "forks_count": 486
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1155,
-    "open_issues_count": 31,
-    "forks_count": 34
+    "stargazers_count": 1169,
+    "open_issues_count": 32,
+    "forks_count": 35
   },
   {
     "full_name": "stevenvachon/broken-link-checker",
-    "stargazers_count": 1925,
+    "stargazers_count": 1927,
     "open_issues_count": 77,
     "forks_count": 298
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 14689,
-    "open_issues_count": 116,
-    "forks_count": 1718
+    "stargazers_count": 14766,
+    "open_issues_count": 121,
+    "forks_count": 1723
   },
   {
     "full_name": "gitwonk/gitwonk",
-    "stargazers_count": 487,
+    "stargazers_count": 488,
     "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 243,
+    "stargazers_count": 245,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 19637,
-    "open_issues_count": 1482,
-    "forks_count": 1151
+    "stargazers_count": 19692,
+    "open_issues_count": 1478,
+    "forks_count": 1156
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 12848,
-    "open_issues_count": 508,
+    "stargazers_count": 12879,
+    "open_issues_count": 509,
     "forks_count": 1148
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7234,
-    "open_issues_count": 313,
+    "stargazers_count": 7235,
+    "open_issues_count": 314,
     "forks_count": 590
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 5834,
+    "stargazers_count": 5849,
     "open_issues_count": 2,
-    "forks_count": 1455
+    "forks_count": 1464
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -93,17 +93,17 @@
     "full_name": "aws-samples/amplify-authentication-for-astro",
     "stargazers_count": 9,
     "open_issues_count": 5,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "hashicorp/mdns",
-    "stargazers_count": 1155,
+    "stargazers_count": 1157,
     "open_issues_count": 38,
     "forks_count": 209
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2494,
+    "stargazers_count": 2495,
     "open_issues_count": 15,
     "forks_count": 132
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2353,
-    "open_issues_count": 134,
-    "forks_count": 598
+    "stargazers_count": 2355,
+    "open_issues_count": 133,
+    "forks_count": 600
   },
   {
     "full_name": "vitejs/vite-plugin-vue2",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "radix-vue/shadcn-vue",
-    "stargazers_count": 3734,
-    "open_issues_count": 68,
-    "forks_count": 210
+    "stargazers_count": 3758,
+    "open_issues_count": 67,
+    "forks_count": 212
   },
   {
     "full_name": "ethack/docker-vpn",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 3273,
-    "open_issues_count": 22,
+    "stargazers_count": 3281,
+    "open_issues_count": 23,
     "forks_count": 308
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 9145,
+    "stargazers_count": 9163,
     "open_issues_count": 81,
     "forks_count": 917
   },
   {
     "full_name": "thomasKn/astro-shopify",
     "stargazers_count": 273,
-    "open_issues_count": 4,
-    "forks_count": 85
+    "open_issues_count": 5,
+    "forks_count": 86
   }
 ]
