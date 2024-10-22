@@ -2,32 +2,32 @@
   {
     "full_name": "zckly/cursorrules-generator",
     "stargazers_count": 8,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 67750,
+    "stargazers_count": 67779,
     "open_issues_count": 834,
-    "forks_count": 16634
+    "forks_count": 16638
   },
   {
     "full_name": "kochrt/qr-designer",
-    "stargazers_count": 2717,
+    "stargazers_count": 2716,
     "open_issues_count": 4,
     "forks_count": 118
   },
   {
     "full_name": "sumimakito/Awesome-qr.js",
-    "stargazers_count": 1673,
+    "stargazers_count": 1674,
     "open_issues_count": 56,
-    "forks_count": 251
+    "forks_count": 250
   },
   {
     "full_name": "darkroomengineering/lenis",
-    "stargazers_count": 8787,
-    "open_issues_count": 19,
-    "forks_count": 377
+    "stargazers_count": 8821,
+    "open_issues_count": 20,
+    "forks_count": 380
   },
   {
     "full_name": "mitya33/cfimp",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 63804,
-    "open_issues_count": 42,
-    "forks_count": 6697
+    "stargazers_count": 63875,
+    "open_issues_count": 43,
+    "forks_count": 6711
   },
   {
     "full_name": "divriots/jampack",
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 19406,
-    "open_issues_count": 226,
-    "forks_count": 549
+    "stargazers_count": 19626,
+    "open_issues_count": 236,
+    "forks_count": 559
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1528,
-    "open_issues_count": 39,
-    "forks_count": 41
+    "stargazers_count": 1569,
+    "open_issues_count": 40,
+    "forks_count": 42
   },
   {
     "full_name": "stevenvachon/broken-link-checker",
-    "stargazers_count": 1956,
+    "stargazers_count": 1959,
     "open_issues_count": 77,
     "forks_count": 304
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 17170,
-    "open_issues_count": 121,
-    "forks_count": 1875
+    "stargazers_count": 17247,
+    "open_issues_count": 119,
+    "forks_count": 1890
   },
   {
     "full_name": "gitwonk/gitwonk",
-    "stargazers_count": 517,
+    "stargazers_count": 520,
     "open_issues_count": 7,
     "forks_count": 12
   },
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 21497,
-    "open_issues_count": 1568,
-    "forks_count": 1284
+    "stargazers_count": 21551,
+    "open_issues_count": 1563,
+    "forks_count": 1291
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 13610,
-    "open_issues_count": 537,
-    "forks_count": 1179
+    "stargazers_count": 13646,
+    "open_issues_count": 544,
+    "forks_count": 1180
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7361,
+    "stargazers_count": 7363,
     "open_issues_count": 329,
     "forks_count": 608
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 6183,
-    "open_issues_count": 13,
-    "forks_count": 1630
+    "stargazers_count": 6198,
+    "open_issues_count": 14,
+    "forks_count": 1642
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "hashicorp/mdns",
-    "stargazers_count": 1180,
+    "stargazers_count": 1181,
     "open_issues_count": 38,
     "forks_count": 208
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2550,
-    "open_issues_count": 21,
-    "forks_count": 138
+    "stargazers_count": 2553,
+    "open_issues_count": 22,
+    "forks_count": 139
   },
   {
     "full_name": "CloudCannon/sitescrape",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "Screenly/Anthias",
-    "stargazers_count": 2480,
-    "open_issues_count": 137,
-    "forks_count": 617
+    "stargazers_count": 2485,
+    "open_issues_count": 138,
+    "forks_count": 618
   },
   {
     "full_name": "vitejs/vite-plugin-vue2",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "unovue/shadcn-vue",
-    "stargazers_count": 4774,
-    "open_issues_count": 86,
-    "forks_count": 273
+    "stargazers_count": 4833,
+    "open_issues_count": 91,
+    "forks_count": 278
   },
   {
     "full_name": "ethack/docker-vpn",
     "stargazers_count": 96,
     "open_issues_count": 5,
-    "forks_count": 30
+    "forks_count": 31
   }
 ]
