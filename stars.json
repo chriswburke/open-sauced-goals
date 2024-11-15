@@ -7,39 +7,39 @@
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 10317,
-    "open_issues_count": 82,
-    "forks_count": 838
+    "stargazers_count": 10373,
+    "open_issues_count": 87,
+    "forks_count": 837
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17174,
-    "open_issues_count": 443,
-    "forks_count": 1030
+    "stargazers_count": 17248,
+    "open_issues_count": 441,
+    "forks_count": 1037
   },
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 20076,
-    "open_issues_count": 308,
-    "forks_count": 2539
+    "stargazers_count": 20091,
+    "open_issues_count": 312,
+    "forks_count": 2542
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 42457,
-    "open_issues_count": 90,
-    "forks_count": 2901
+    "stargazers_count": 42490,
+    "open_issues_count": 83,
+    "forks_count": 2906
   },
   {
     "full_name": "unovue/inspira-ui",
-    "stargazers_count": 874,
-    "open_issues_count": 2,
-    "forks_count": 26
+    "stargazers_count": 914,
+    "open_issues_count": 1,
+    "forks_count": 27
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 27105,
-    "open_issues_count": 1158,
-    "forks_count": 1241
+    "stargazers_count": 27297,
+    "open_issues_count": 1166,
+    "forks_count": 1249
   },
   {
     "full_name": "zckly/cursorrules-generator",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 67883,
+    "stargazers_count": 67900,
     "open_issues_count": 844,
-    "forks_count": 16643
+    "forks_count": 16645
   },
   {
     "full_name": "kochrt/qr-designer",
-    "stargazers_count": 2718,
+    "stargazers_count": 2720,
     "open_issues_count": 4,
     "forks_count": 117
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "darkroomengineering/lenis",
-    "stargazers_count": 9025,
+    "stargazers_count": 9045,
     "open_issues_count": 14,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "mitya33/cfimp",
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 64303,
+    "stargazers_count": 64348,
     "open_issues_count": 44,
-    "forks_count": 6785
+    "forks_count": 6788
   },
   {
     "full_name": "divriots/jampack",
-    "stargazers_count": 1617,
+    "stargazers_count": 1619,
     "open_issues_count": 19,
     "forks_count": 24
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 20267,
+    "stargazers_count": 20329,
     "open_issues_count": 227,
-    "forks_count": 579
+    "forks_count": 582
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1651,
+    "stargazers_count": 1658,
     "open_issues_count": 44,
     "forks_count": 43
   },
   {
     "full_name": "stevenvachon/broken-link-checker",
-    "stargazers_count": 1966,
+    "stargazers_count": 1967,
     "open_issues_count": 77,
     "forks_count": 305
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 17640,
-    "open_issues_count": 104,
-    "forks_count": 1909
+    "stargazers_count": 17683,
+    "open_issues_count": 103,
+    "forks_count": 1915
   },
   {
     "full_name": "gitwonk/gitwonk",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "PostHog/posthog-foss",
-    "stargazers_count": 289,
+    "stargazers_count": 291,
     "open_issues_count": 0,
     "forks_count": 51
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 21863,
-    "open_issues_count": 1595,
-    "forks_count": 1301
+    "stargazers_count": 21924,
+    "open_issues_count": 1598,
+    "forks_count": 1316
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 13742,
+    "stargazers_count": 13761,
     "open_issues_count": 552,
-    "forks_count": 1182
+    "forks_count": 1184
   },
   {
     "full_name": "webiny/webiny-examples",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7401,
-    "open_issues_count": 330,
+    "stargazers_count": 7402,
+    "open_issues_count": 333,
     "forks_count": 614
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 6265,
+    "stargazers_count": 6275,
     "open_issues_count": 14,
-    "forks_count": 1679
+    "forks_count": 1682
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
@@ -171,11 +171,11 @@
     "full_name": "hashicorp/mdns",
     "stargazers_count": 1188,
     "open_issues_count": 39,
-    "forks_count": 210
+    "forks_count": 211
   },
   {
     "full_name": "rollup/awesome",
-    "stargazers_count": 2565,
+    "stargazers_count": 2566,
     "open_issues_count": 22,
     "forks_count": 139
   }
