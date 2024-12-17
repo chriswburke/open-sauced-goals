@@ -1,51 +1,63 @@
 [
   {
+    "full_name": "vercel/fun",
+    "stargazers_count": 710,
+    "open_issues_count": 22,
+    "forks_count": 28
+  },
+  {
+    "full_name": "All-Hands-AI/OpenHands",
+    "stargazers_count": 38627,
+    "open_issues_count": 247,
+    "forks_count": 4355
+  },
+  {
     "full_name": "mswjs/msw",
-    "stargazers_count": 16081,
-    "open_issues_count": 58,
+    "stargazers_count": 16102,
+    "open_issues_count": 50,
     "forks_count": 530
   },
   {
     "full_name": "LatentDream/watson.ai",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 3,
     "forks_count": 14
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 13183,
-    "open_issues_count": 91,
-    "forks_count": 1024
+    "stargazers_count": 13374,
+    "open_issues_count": 86,
+    "forks_count": 1201
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17710,
-    "open_issues_count": 536,
+    "stargazers_count": 17767,
+    "open_issues_count": 540,
     "forks_count": 1084
   },
   {
     "full_name": "vueuse/vueuse",
-    "stargazers_count": 20246,
-    "open_issues_count": 324,
-    "forks_count": 2563
+    "stargazers_count": 20258,
+    "open_issues_count": 327,
+    "forks_count": 2564
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 42913,
-    "open_issues_count": 97,
-    "forks_count": 2941
+    "stargazers_count": 42965,
+    "open_issues_count": 102,
+    "forks_count": 2948
   },
   {
     "full_name": "unovue/inspira-ui",
-    "stargazers_count": 1074,
+    "stargazers_count": 1086,
     "open_issues_count": 2,
     "forks_count": 32
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 28400,
-    "open_issues_count": 1176,
-    "forks_count": 1316
+    "stargazers_count": 28626,
+    "open_issues_count": 1164,
+    "forks_count": 1331
   },
   {
     "full_name": "zckly/cursorrules-generator",
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 68060,
-    "open_issues_count": 846,
-    "forks_count": 16660
+    "stargazers_count": 68073,
+    "open_issues_count": 847,
+    "forks_count": 16659
   },
   {
     "full_name": "kochrt/qr-designer",
-    "stargazers_count": 2725,
+    "stargazers_count": 2727,
     "open_issues_count": 4,
     "forks_count": 118
   },
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "darkroomengineering/lenis",
-    "stargazers_count": 9236,
-    "open_issues_count": 16,
-    "forks_count": 388
+    "stargazers_count": 9254,
+    "open_issues_count": 17,
+    "forks_count": 389
   },
   {
     "full_name": "mitya33/cfimp",
@@ -85,25 +97,25 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 64975,
+    "stargazers_count": 66029,
     "open_issues_count": 44,
-    "forks_count": 6874
+    "forks_count": 6961
   },
   {
     "full_name": "divriots/jampack",
-    "stargazers_count": 1624,
+    "stargazers_count": 1625,
     "open_issues_count": 18,
     "forks_count": 24
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 20891,
+    "stargazers_count": 20961,
     "open_issues_count": 252,
-    "forks_count": 613
+    "forks_count": 614
   },
   {
     "full_name": "honojs/honox",
-    "stargazers_count": 1718,
+    "stargazers_count": 1724,
     "open_issues_count": 45,
     "forks_count": 46
   },
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "deepset-ai/haystack",
-    "stargazers_count": 18091,
-    "open_issues_count": 98,
-    "forks_count": 1941
+    "stargazers_count": 18134,
+    "open_issues_count": 103,
+    "forks_count": 1944
   },
   {
     "full_name": "gitwonk/gitwonk",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 22572,
-    "open_issues_count": 1646,
-    "forks_count": 1359
+    "stargazers_count": 22621,
+    "open_issues_count": 1647,
+    "forks_count": 1367
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 14052,
-    "open_issues_count": 582,
-    "forks_count": 1196
+    "stargazers_count": 14268,
+    "open_issues_count": 587,
+    "forks_count": 1211
   },
   {
     "full_name": "webiny/webiny-examples",
-    "stargazers_count": 44,
+    "stargazers_count": 43,
     "open_issues_count": 94,
     "forks_count": 33
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 7436,
-    "open_issues_count": 338,
+    "stargazers_count": 7437,
+    "open_issues_count": 336,
     "forks_count": 616
   },
   {
     "full_name": "Blazity/next-enterprise",
-    "stargazers_count": 6349,
+    "stargazers_count": 6364,
     "open_issues_count": 23,
-    "forks_count": 1721
+    "forks_count": 1723
   },
   {
     "full_name": "oboecat/clerk-astro-wrapped-react-sample",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "aws-samples/amplify-authentication-for-astro",
-    "stargazers_count": 12,
-    "open_issues_count": 10,
-    "forks_count": 11
-  },
-  {
-    "full_name": "hashicorp/mdns",
-    "stargazers_count": 1204,
-    "open_issues_count": 39,
-    "forks_count": 212
   }
 ]
