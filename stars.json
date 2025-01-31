@@ -1,57 +1,57 @@
 [
   {
     "full_name": "block/goose",
-    "stargazers_count": 360,
-    "open_issues_count": 86,
-    "forks_count": 54
+    "stargazers_count": 3397,
+    "open_issues_count": 137,
+    "forks_count": 237
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 28913,
-    "open_issues_count": 193,
-    "forks_count": 2910
+    "stargazers_count": 29103,
+    "open_issues_count": 195,
+    "forks_count": 2923
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 26023,
+    "stargazers_count": 26154,
     "open_issues_count": 20,
-    "forks_count": 5067
+    "forks_count": 5120
   },
   {
     "full_name": "lightpanda-io/browser",
-    "stargazers_count": 4598,
-    "open_issues_count": 61,
-    "forks_count": 94
+    "stargazers_count": 5018,
+    "open_issues_count": 64,
+    "forks_count": 104
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 4123,
-    "open_issues_count": 39,
-    "forks_count": 440
+    "stargazers_count": 5868,
+    "open_issues_count": 55,
+    "forks_count": 722
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 20394,
-    "open_issues_count": 176,
-    "forks_count": 1945
+    "stargazers_count": 21718,
+    "open_issues_count": 188,
+    "forks_count": 2108
   },
   {
     "full_name": "dubinc/dub",
-    "stargazers_count": 19767,
+    "stargazers_count": 19793,
     "open_issues_count": 91,
-    "forks_count": 2158
+    "forks_count": 2167
   },
   {
     "full_name": "joelparkerhenderson/architecture-decision-record",
-    "stargazers_count": 12714,
+    "stargazers_count": 12731,
     "open_issues_count": 5,
-    "forks_count": 2484
+    "forks_count": 2487
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 64965,
-    "open_issues_count": 1967,
-    "forks_count": 6956
+    "stargazers_count": 65267,
+    "open_issues_count": 1978,
+    "forks_count": 6973
   },
   {
     "full_name": "recraft-ai/ComfyUI-RecraftAI",
@@ -67,116 +67,116 @@
   },
   {
     "full_name": "crewAIInc/crewAI",
-    "stargazers_count": 25493,
-    "open_issues_count": 117,
-    "forks_count": 3450
+    "stargazers_count": 25636,
+    "open_issues_count": 129,
+    "forks_count": 3469
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 20953,
-    "open_issues_count": 212,
-    "forks_count": 3525
+    "stargazers_count": 21162,
+    "open_issues_count": 218,
+    "forks_count": 3559
   },
   {
     "full_name": "webstudio-is/webstudio",
-    "stargazers_count": 5941,
-    "open_issues_count": 322,
-    "forks_count": 783
+    "stargazers_count": 5961,
+    "open_issues_count": 325,
+    "forks_count": 788
   },
   {
     "full_name": "rowyio/rowy",
-    "stargazers_count": 6391,
+    "stargazers_count": 6398,
     "open_issues_count": 69,
-    "forks_count": 504
+    "forks_count": 506
   },
   {
     "full_name": "meta-llama/llama-stack",
-    "stargazers_count": 6798,
-    "open_issues_count": 124,
-    "forks_count": 818
+    "stargazers_count": 7078,
+    "open_issues_count": 120,
+    "forks_count": 797
   },
   {
     "full_name": "glanceapp/glance",
-    "stargazers_count": 10188,
+    "stargazers_count": 10219,
     "open_issues_count": 107,
-    "forks_count": 359
+    "forks_count": 361
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 27123,
-    "open_issues_count": 160,
-    "forks_count": 2172
+    "stargazers_count": 27191,
+    "open_issues_count": 162,
+    "forks_count": 2179
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 16737,
-    "open_issues_count": 107,
-    "forks_count": 1018
+    "stargazers_count": 17129,
+    "open_issues_count": 106,
+    "forks_count": 1038
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 34399,
-    "open_issues_count": 57,
-    "forks_count": 1571
+    "stargazers_count": 34461,
+    "open_issues_count": 59,
+    "forks_count": 1575
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 16216,
+    "stargazers_count": 16294,
     "open_issues_count": 88,
-    "forks_count": 749
+    "forks_count": 751
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 25307,
-    "open_issues_count": 178,
-    "forks_count": 620
+    "stargazers_count": 25538,
+    "open_issues_count": 176,
+    "forks_count": 631
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 32024,
-    "open_issues_count": 441,
-    "forks_count": 1874
+    "stargazers_count": 32068,
+    "open_issues_count": 435,
+    "forks_count": 1880
   },
   {
     "full_name": "mfts/papermark",
-    "stargazers_count": 6014,
+    "stargazers_count": 6030,
     "open_issues_count": 123,
-    "forks_count": 801
+    "forks_count": 799
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 17022,
-    "open_issues_count": 1909,
-    "forks_count": 4271
+    "stargazers_count": 17050,
+    "open_issues_count": 1895,
+    "forks_count": 4274
   },
   {
     "full_name": "llmware-ai/llmware",
-    "stargazers_count": 8560,
-    "open_issues_count": 71,
-    "forks_count": 1528
+    "stargazers_count": 8567,
+    "open_issues_count": 73,
+    "forks_count": 1531
   },
   {
     "full_name": "ComposioHQ/composio",
-    "stargazers_count": 14341,
-    "open_issues_count": 35,
-    "forks_count": 4245
+    "stargazers_count": 14379,
+    "open_issues_count": 36,
+    "forks_count": 4240
   },
   {
     "full_name": "chatwoot/chatwoot",
-    "stargazers_count": 22087,
-    "open_issues_count": 956,
-    "forks_count": 3792
+    "stargazers_count": 22115,
+    "open_issues_count": 950,
+    "forks_count": 3799
   },
   {
     "full_name": "devflowinc/trieve",
-    "stargazers_count": 1865,
-    "open_issues_count": 21,
-    "forks_count": 161
+    "stargazers_count": 1871,
+    "open_issues_count": 19,
+    "forks_count": 162
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 56885,
-    "open_issues_count": 598,
-    "forks_count": 10928
+    "stargazers_count": 57442,
+    "open_issues_count": 621,
+    "forks_count": 11220
   }
 ]
