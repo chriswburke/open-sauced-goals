@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "upstash/context7",
+    "stargazers_count": 4744,
+    "open_issues_count": 37,
+    "forks_count": 283
+  },
+  {
+    "full_name": "better-auth/better-auth",
+    "stargazers_count": 12427,
+    "open_issues_count": 445,
+    "forks_count": 825
+  },
+  {
     "full_name": "nocobase/nocobase",
-    "stargazers_count": 15286,
-    "open_issues_count": 137,
-    "forks_count": 1667
+    "stargazers_count": 15399,
+    "open_issues_count": 140,
+    "forks_count": 1676
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 15057,
-    "open_issues_count": 80,
-    "forks_count": 649
+    "stargazers_count": 15229,
+    "open_issues_count": 82,
+    "forks_count": 657
   },
   {
     "full_name": "fastrepl/hyprnote",
-    "stargazers_count": 734,
-    "open_issues_count": 34,
-    "forks_count": 45
+    "stargazers_count": 1560,
+    "open_issues_count": 56,
+    "forks_count": 72
   },
   {
     "full_name": "cloudflare/agents-starter",
-    "stargazers_count": 677,
-    "open_issues_count": 6,
-    "forks_count": 88
+    "stargazers_count": 694,
+    "open_issues_count": 8,
+    "forks_count": 91
   },
   {
     "full_name": "sentient-agi/OpenDeepSearch",
-    "stargazers_count": 3250,
+    "stargazers_count": 3271,
     "open_issues_count": 13,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 91196,
-    "open_issues_count": 214,
-    "forks_count": 11521
+    "stargazers_count": 91805,
+    "open_issues_count": 197,
+    "forks_count": 11624
   },
   {
     "full_name": "tractr/directus-sync",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 21,
     "forks_count": 14
   },
   {
     "full_name": "CopilotKit/CopilotKit",
-    "stargazers_count": 18310,
+    "stargazers_count": 18360,
     "open_issues_count": 144,
-    "forks_count": 2621
+    "forks_count": 2623
   },
   {
     "full_name": "kern/filepizza",
-    "stargazers_count": 8806,
-    "open_issues_count": 31,
+    "stargazers_count": 8850,
+    "open_issues_count": 32,
     "forks_count": 549
   },
   {
     "full_name": "ItzCrazyKns/Perplexica",
-    "stargazers_count": 21488,
-    "open_issues_count": 157,
-    "forks_count": 2188
+    "stargazers_count": 21555,
+    "open_issues_count": 158,
+    "forks_count": 2195
   },
   {
     "full_name": "mnfst/manifest",
     "stargazers_count": 2488,
-    "open_issues_count": 15,
-    "forks_count": 96
+    "open_issues_count": 16,
+    "forks_count": 95
   },
   {
     "full_name": "RSSNext/Folo",
-    "stargazers_count": 25395,
-    "open_issues_count": 148,
-    "forks_count": 1083
+    "stargazers_count": 25492,
+    "open_issues_count": 144,
+    "forks_count": 1084
   },
   {
     "full_name": "PySpur-Dev/pyspur",
-    "stargazers_count": 4650,
-    "open_issues_count": 21,
-    "forks_count": 327
+    "stargazers_count": 4688,
+    "open_issues_count": 22,
+    "forks_count": 330
   },
   {
     "full_name": "cloudflare/workers-mcp",
-    "stargazers_count": 488,
+    "stargazers_count": 490,
     "open_issues_count": 16,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "gethomepage/homepage",
-    "stargazers_count": 23241,
-    "open_issues_count": 2,
-    "forks_count": 1418
+    "stargazers_count": 23361,
+    "open_issues_count": 0,
+    "forks_count": 1425
   },
   {
     "full_name": "exa-labs/exa-mcp-server",
-    "stargazers_count": 938,
-    "open_issues_count": 7,
-    "forks_count": 76
+    "stargazers_count": 1407,
+    "open_issues_count": 9,
+    "forks_count": 113
   },
   {
     "full_name": "cloudflare/mcp-server-cloudflare",
-    "stargazers_count": 1369,
-    "open_issues_count": 28,
-    "forks_count": 103
+    "stargazers_count": 1404,
+    "open_issues_count": 36,
+    "forks_count": 106
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 42731,
-    "open_issues_count": 57,
-    "forks_count": 3094
+    "stargazers_count": 44456,
+    "open_issues_count": 24,
+    "forks_count": 3232
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 36891,
-    "open_issues_count": 208,
-    "forks_count": 3312
+    "stargazers_count": 37210,
+    "open_issues_count": 210,
+    "forks_count": 3354
   },
   {
     "full_name": "lynx-family/lynx",
-    "stargazers_count": 12030,
-    "open_issues_count": 221,
-    "forks_count": 403
+    "stargazers_count": 12091,
+    "open_issues_count": 220,
+    "forks_count": 406
   },
   {
     "full_name": "OpenMeet-Team/openmeet-platform",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 8,
     "forks_count": 1
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 7857,
-    "open_issues_count": 124,
-    "forks_count": 446
+    "stargazers_count": 7899,
+    "open_issues_count": 119,
+    "forks_count": 449
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 64314,
-    "open_issues_count": 496,
-    "forks_count": 3371
+    "stargazers_count": 64679,
+    "open_issues_count": 501,
+    "forks_count": 3400
   },
   {
     "full_name": "exa-labs/company-researcher",
-    "stargazers_count": 1161,
+    "stargazers_count": 1167,
     "open_issues_count": 1,
     "forks_count": 106
   },
   {
     "full_name": "FreeTubeApp/FreeTube",
-    "stargazers_count": 17581,
-    "open_issues_count": 394,
-    "forks_count": 1138
+    "stargazers_count": 17614,
+    "open_issues_count": 386,
+    "forks_count": 1140
   },
   {
     "full_name": "midday-ai/midday",
-    "stargazers_count": 7736,
-    "open_issues_count": 20,
-    "forks_count": 752
+    "stargazers_count": 7763,
+    "open_issues_count": 21,
+    "forks_count": 751
   },
   {
     "full_name": "getomni-ai/zerox",
-    "stargazers_count": 11037,
-    "open_issues_count": 65,
-    "forks_count": 728
+    "stargazers_count": 11065,
+    "open_issues_count": 64,
+    "forks_count": 730
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 7356,
-    "open_issues_count": 4,
-    "forks_count": 930
-  },
-  {
-    "full_name": "jetkvm/kvm",
-    "stargazers_count": 2253,
-    "open_issues_count": 161,
-    "forks_count": 123
-  },
-  {
-    "full_name": "azukaar/Cosmos-Server",
-    "stargazers_count": 4429,
-    "open_issues_count": 121,
-    "forks_count": 160
+    "stargazers_count": 7414,
+    "open_issues_count": 2,
+    "forks_count": 943
   }
 ]
