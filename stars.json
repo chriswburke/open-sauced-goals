@@ -1,39 +1,39 @@
 [
   {
     "full_name": "ruvnet/ruflo",
-    "stargazers_count": 53950,
-    "open_issues_count": 559,
-    "forks_count": 6110
+    "stargazers_count": 55115,
+    "open_issues_count": 568,
+    "forks_count": 6269
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 47346,
-    "open_issues_count": 160,
-    "forks_count": 5274
+    "stargazers_count": 47427,
+    "open_issues_count": 162,
+    "forks_count": 5283
   },
   {
     "full_name": "vercel-labs/portless",
-    "stargazers_count": 9429,
-    "open_issues_count": 98,
-    "forks_count": 290
+    "stargazers_count": 9490,
+    "open_issues_count": 101,
+    "forks_count": 296
   },
   {
     "full_name": "warpdotdev/warp",
-    "stargazers_count": 59448,
-    "open_issues_count": 3978,
-    "forks_count": 4665
+    "stargazers_count": 59961,
+    "open_issues_count": 4067,
+    "forks_count": 4752
   },
   {
     "full_name": "cloudflare/agentic-inbox",
-    "stargazers_count": 3131,
+    "stargazers_count": 3526,
     "open_issues_count": 36,
-    "forks_count": 425
+    "forks_count": 455
   },
   {
     "full_name": "refactoringhq/tolaria",
-    "stargazers_count": 11184,
-    "open_issues_count": 18,
-    "forks_count": 800
+    "stargazers_count": 11495,
+    "open_issues_count": 21,
+    "forks_count": 818
   },
   {
     "full_name": "sanity-io/agent-toolkit",
@@ -43,139 +43,139 @@
   },
   {
     "full_name": "earendil-works/pi",
-    "stargazers_count": 52604,
-    "open_issues_count": 44,
-    "forks_count": 6280
+    "stargazers_count": 54796,
+    "open_issues_count": 37,
+    "forks_count": 6513
   },
   {
     "full_name": "every-app/open-seo",
-    "stargazers_count": 2052,
-    "open_issues_count": 2,
-    "forks_count": 241
+    "stargazers_count": 2084,
+    "open_issues_count": 3,
+    "forks_count": 247
   },
   {
     "full_name": "hilash/cabinet",
-    "stargazers_count": 2127,
-    "open_issues_count": 43,
-    "forks_count": 213
+    "stargazers_count": 2157,
+    "open_issues_count": 46,
+    "forks_count": 214
   },
   {
     "full_name": "zubair-trabzada/geo-seo-claude",
-    "stargazers_count": 7446,
+    "stargazers_count": 7538,
     "open_issues_count": 15,
-    "forks_count": 1225
+    "forks_count": 1243
   },
   {
     "full_name": "zmeyer44/Locker",
-    "stargazers_count": 753,
+    "stargazers_count": 756,
     "open_issues_count": 6,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "anomalyco/opentui",
-    "stargazers_count": 11247,
-    "open_issues_count": 157,
-    "forks_count": 561
+    "stargazers_count": 11313,
+    "open_issues_count": 164,
+    "forks_count": 567
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 19472,
-    "open_issues_count": 1246,
-    "forks_count": 2565
+    "stargazers_count": 19572,
+    "open_issues_count": 1261,
+    "forks_count": 2585
   },
   {
     "full_name": "onecli/onecli",
-    "stargazers_count": 2230,
-    "open_issues_count": 38,
-    "forks_count": 116
+    "stargazers_count": 2247,
+    "open_issues_count": 42,
+    "forks_count": 117
   },
   {
     "full_name": "capcom6/android-sms-gateway",
-    "stargazers_count": 4446,
+    "stargazers_count": 4477,
     "open_issues_count": 13,
-    "forks_count": 728
+    "forks_count": 737
   },
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 163653,
-    "open_issues_count": 6330,
-    "forks_count": 19329
+    "stargazers_count": 165292,
+    "open_issues_count": 6097,
+    "forks_count": 19607
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 64933,
-    "open_issues_count": 1268,
-    "forks_count": 5754
+    "stargazers_count": 65125,
+    "open_issues_count": 1303,
+    "forks_count": 5778
   },
   {
     "full_name": "kevinrgu/autoagent",
-    "stargazers_count": 4443,
-    "open_issues_count": 9,
+    "stargazers_count": 4450,
+    "open_issues_count": 8,
     "forks_count": 498
   },
   {
     "full_name": "stablyai/orca",
-    "stargazers_count": 3051,
-    "open_issues_count": 181,
-    "forks_count": 211
+    "stargazers_count": 3366,
+    "open_issues_count": 198,
+    "forks_count": 224
   },
   {
     "full_name": "Railly/agentfiles",
-    "stargazers_count": 574,
+    "stargazers_count": 577,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "netbirdio/netbird",
-    "stargazers_count": 25394,
-    "open_issues_count": 1525,
-    "forks_count": 1360
+    "stargazers_count": 25498,
+    "open_issues_count": 1526,
+    "forks_count": 1364
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 10588,
-    "open_issues_count": 142,
-    "forks_count": 942
+    "stargazers_count": 10648,
+    "open_issues_count": 148,
+    "forks_count": 950
   },
   {
     "full_name": "ultraworkers/claw-code",
-    "stargazers_count": 192182,
-    "open_issues_count": 1408,
-    "forks_count": 109958
+    "stargazers_count": 192504,
+    "open_issues_count": 1369,
+    "forks_count": 109953
   },
   {
     "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 81372,
+    "stargazers_count": 82717,
     "open_issues_count": 154,
-    "forks_count": 8376
+    "forks_count": 8522
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 77295,
-    "open_issues_count": 197,
-    "forks_count": 6656
+    "stargazers_count": 78155,
+    "open_issues_count": 240,
+    "forks_count": 6738
   },
   {
     "full_name": "chroma-core/context-1-data-gen",
-    "stargazers_count": 424,
+    "stargazers_count": 425,
     "open_issues_count": 2,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 100507,
-    "open_issues_count": 560,
-    "forks_count": 14971
+    "stargazers_count": 102554,
+    "open_issues_count": 549,
+    "forks_count": 15294
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 64972,
-    "open_issues_count": 393,
-    "forks_count": 9887
+    "stargazers_count": 65004,
+    "open_issues_count": 397,
+    "forks_count": 9891
   },
   {
     "full_name": "altic-dev/FluidVoice",
-    "stargazers_count": 2208,
+    "stargazers_count": 2231,
     "open_issues_count": 35,
     "forks_count": 128
   }
