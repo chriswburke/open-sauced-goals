@@ -1,129 +1,141 @@
 [
   {
+    "full_name": "Advsol/iMISRESTCollection",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 16
+  },
+  {
+    "full_name": "imbhargav5/open-recorder",
+    "stargazers_count": 61,
+    "open_issues_count": 2,
+    "forks_count": 7
+  },
+  {
     "full_name": "nexu-io/open-design",
-    "stargazers_count": 69298,
-    "open_issues_count": 407,
-    "forks_count": 7815
+    "stargazers_count": 71224,
+    "open_issues_count": 443,
+    "forks_count": 8022
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 25598,
+    "stargazers_count": 25720,
     "open_issues_count": 520,
-    "forks_count": 1865
+    "forks_count": 1877
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 47166,
-    "open_issues_count": 356,
-    "forks_count": 3296
+    "stargazers_count": 51111,
+    "open_issues_count": 399,
+    "forks_count": 3615
   },
   {
     "full_name": "vercel-labs/agent-skills",
-    "stargazers_count": 28213,
-    "open_issues_count": 150,
-    "forks_count": 2543
+    "stargazers_count": 28334,
+    "open_issues_count": 155,
+    "forks_count": 2548
   },
   {
     "full_name": "alibaba/open-code-review",
-    "stargazers_count": 8476,
-    "open_issues_count": 38,
-    "forks_count": 533
+    "stargazers_count": 9294,
+    "open_issues_count": 42,
+    "forks_count": 596
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 10773,
-    "open_issues_count": 250,
+    "stargazers_count": 10785,
+    "open_issues_count": 242,
     "forks_count": 1659
   },
   {
     "full_name": "nolly-studio/cult-ui",
-    "stargazers_count": 5378,
+    "stargazers_count": 5461,
     "open_issues_count": 16,
-    "forks_count": 280
+    "forks_count": 285
   },
   {
     "full_name": "Augani/openreel-video",
-    "stargazers_count": 3546,
+    "stargazers_count": 3571,
     "open_issues_count": 15,
-    "forks_count": 491
+    "forks_count": 501
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 75884,
-    "open_issues_count": 306,
-    "forks_count": 4297
+    "stargazers_count": 76949,
+    "open_issues_count": 320,
+    "forks_count": 4356
   },
   {
     "full_name": "juanfont/headscale",
-    "stargazers_count": 40326,
-    "open_issues_count": 117,
-    "forks_count": 2208
+    "stargazers_count": 40428,
+    "open_issues_count": 119,
+    "forks_count": 2217
   },
   {
     "full_name": "ruvnet/ruflo",
-    "stargazers_count": 60952,
-    "open_issues_count": 667,
-    "forks_count": 7085
+    "stargazers_count": 61474,
+    "open_issues_count": 680,
+    "forks_count": 7149
   },
   {
     "full_name": "microsoft/VibeVoice",
-    "stargazers_count": 49546,
-    "open_issues_count": 172,
-    "forks_count": 5530
+    "stargazers_count": 49625,
+    "open_issues_count": 174,
+    "forks_count": 5539
   },
   {
     "full_name": "vercel-labs/portless",
-    "stargazers_count": 9884,
-    "open_issues_count": 112,
-    "forks_count": 319
+    "stargazers_count": 9962,
+    "open_issues_count": 111,
+    "forks_count": 321
   },
   {
     "full_name": "warpdotdev/warp",
-    "stargazers_count": 62204,
-    "open_issues_count": 4396,
-    "forks_count": 5079
+    "stargazers_count": 62397,
+    "open_issues_count": 4410,
+    "forks_count": 5102
   },
   {
     "full_name": "cloudflare/agentic-inbox",
-    "stargazers_count": 4891,
+    "stargazers_count": 4985,
     "open_issues_count": 39,
-    "forks_count": 656
+    "forks_count": 671
   },
   {
     "full_name": "refactoringhq/tolaria",
-    "stargazers_count": 16842,
-    "open_issues_count": 52,
-    "forks_count": 1175
+    "stargazers_count": 16944,
+    "open_issues_count": 64,
+    "forks_count": 1183
   },
   {
     "full_name": "sanity-io/agent-toolkit",
-    "stargazers_count": 156,
+    "stargazers_count": 158,
     "open_issues_count": 8,
     "forks_count": 22
   },
   {
     "full_name": "earendil-works/pi",
-    "stargazers_count": 64767,
-    "open_issues_count": 48,
-    "forks_count": 7893
+    "stargazers_count": 65617,
+    "open_issues_count": 42,
+    "forks_count": 7993
   },
   {
     "full_name": "every-app/open-seo",
-    "stargazers_count": 2244,
-    "open_issues_count": 3,
-    "forks_count": 276
+    "stargazers_count": 2569,
+    "open_issues_count": 13,
+    "forks_count": 298
   },
   {
     "full_name": "hilash/cabinet",
-    "stargazers_count": 2348,
-    "open_issues_count": 53,
+    "stargazers_count": 2365,
+    "open_issues_count": 50,
     "forks_count": 236
   },
   {
     "full_name": "zubair-trabzada/geo-seo-claude",
-    "stargazers_count": 8589,
+    "stargazers_count": 8694,
     "open_issues_count": 14,
-    "forks_count": 1366
+    "forks_count": 1386
   },
   {
     "full_name": "zmeyer44/Locker",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "anomalyco/opentui",
-    "stargazers_count": 12124,
-    "open_issues_count": 154,
-    "forks_count": 617
+    "stargazers_count": 12169,
+    "open_issues_count": 162,
+    "forks_count": 622
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 23985,
-    "open_issues_count": 818,
-    "forks_count": 2770
+    "stargazers_count": 24630,
+    "open_issues_count": 849,
+    "forks_count": 2798
   },
   {
     "full_name": "onecli/onecli",
-    "stargazers_count": 2407,
-    "open_issues_count": 61,
-    "forks_count": 127
+    "stargazers_count": 2415,
+    "open_issues_count": 68,
+    "forks_count": 128
   },
   {
     "full_name": "capcom6/android-sms-gateway",
-    "stargazers_count": 4597,
-    "open_issues_count": 21,
-    "forks_count": 761
+    "stargazers_count": 4785,
+    "open_issues_count": 19,
+    "forks_count": 793
   },
   {
     "full_name": "anomalyco/opencode",
-    "stargazers_count": 177438,
-    "open_issues_count": 7362,
-    "forks_count": 21682
+    "stargazers_count": 178789,
+    "open_issues_count": 7011,
+    "forks_count": 21945
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 67121,
-    "open_issues_count": 1023,
-    "forks_count": 6025
-  },
-  {
-    "full_name": "kevinrgu/autoagent",
-    "stargazers_count": 4502,
-    "open_issues_count": 7,
-    "forks_count": 503
-  },
-  {
-    "full_name": "stablyai/orca",
-    "stargazers_count": 6046,
-    "open_issues_count": 591,
-    "forks_count": 449
+    "stargazers_count": 67365,
+    "open_issues_count": 1013,
+    "forks_count": 6052
   }
 ]
