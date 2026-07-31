@@ -1,63 +1,69 @@
 [
   {
+    "full_name": "Blaizzy/nativ",
+    "stargazers_count": 1036,
+    "open_issues_count": 39,
+    "forks_count": 59
+  },
+  {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 191696,
-    "open_issues_count": 236,
-    "forks_count": 16476
+    "stargazers_count": 196628,
+    "open_issues_count": 254,
+    "forks_count": 16947
   },
   {
     "full_name": "MoonshotAI/kimi-code",
-    "stargazers_count": 5416,
-    "open_issues_count": 865,
-    "forks_count": 794
+    "stargazers_count": 5794,
+    "open_issues_count": 968,
+    "forks_count": 878
   },
   {
     "full_name": "Automattic/harper",
-    "stargazers_count": 13750,
+    "stargazers_count": 14017,
     "open_issues_count": 698,
-    "forks_count": 524
+    "forks_count": 539
   },
   {
     "full_name": "vercel-labs/deepsec",
-    "stargazers_count": 6419,
-    "open_issues_count": 48,
-    "forks_count": 378
+    "stargazers_count": 6490,
+    "open_issues_count": 51,
+    "forks_count": 384
   },
   {
     "full_name": "KnockOutEZ/wigolo",
-    "stargazers_count": 3760,
-    "open_issues_count": 28,
-    "forks_count": 248
+    "stargazers_count": 4004,
+    "open_issues_count": 38,
+    "forks_count": 267
   },
   {
     "full_name": "haydenbleasel/blume",
-    "stargazers_count": 986,
+    "stargazers_count": 1025,
     "open_issues_count": 2,
-    "forks_count": 55
+    "forks_count": 57
   },
   {
     "full_name": "rpamis/comet",
-    "stargazers_count": 2552,
+    "stargazers_count": 2593,
     "open_issues_count": 43,
-    "forks_count": 247
+    "forks_count": 250
   },
   {
     "full_name": "Fission-AI/OpenSpec",
-    "stargazers_count": 62842,
-    "open_issues_count": 332,
-    "forks_count": 4347
+    "stargazers_count": 63245,
+    "open_issues_count": 327,
+    "forks_count": 4374
   },
   {
     "full_name": "kepano/kepano-obsidian",
-    "stargazers_count": 4221,
+    "stargazers_count": 4254,
     "open_issues_count": 6,
     "forks_count": 343
   },
   {
     "full_name": "emilkowalski/skills",
-    "stargazers_count": 21697,
-    "open_issues_count": 5,
-    "forks_count": 1175
+    "stargazers_count": 23061,
+    "open_issues_count": 6,
+    "forks_count": 1256
   },
   {
     "full_name": "betmoar/cc-proxy-plugin",
@@ -67,45 +73,45 @@
   },
   {
     "full_name": "vercel-labs/native",
-    "stargazers_count": 7011,
-    "open_issues_count": 103,
+    "stargazers_count": 7097,
+    "open_issues_count": 108,
     "forks_count": 288
   },
   {
     "full_name": "langchain-ai/openwiki",
-    "stargazers_count": 13401,
-    "open_issues_count": 126,
-    "forks_count": 935
+    "stargazers_count": 13707,
+    "open_issues_count": 127,
+    "forks_count": 965
   },
   {
     "full_name": "bbernhard/signal-cli-rest-api",
     "stargazers_count": 2731,
-    "open_issues_count": 141,
-    "forks_count": 299
+    "open_issues_count": 143,
+    "forks_count": 301
   },
   {
     "full_name": "ChromeDevTools/chrome-devtools-mcp",
-    "stargazers_count": 47713,
-    "open_issues_count": 116,
-    "forks_count": 3228
+    "stargazers_count": 48138,
+    "open_issues_count": 114,
+    "forks_count": 3266
   },
   {
     "full_name": "CoreBunch/Instatic",
-    "stargazers_count": 6277,
-    "open_issues_count": 58,
-    "forks_count": 551
+    "stargazers_count": 6835,
+    "open_issues_count": 68,
+    "forks_count": 600
   },
   {
     "full_name": "coder/mux",
-    "stargazers_count": 1942,
-    "open_issues_count": 244,
+    "stargazers_count": 1947,
+    "open_issues_count": 250,
     "forks_count": 121
   },
   {
     "full_name": "agentskills/agentskills",
-    "stargazers_count": 23560,
-    "open_issues_count": 53,
-    "forks_count": 1612
+    "stargazers_count": 23685,
+    "open_issues_count": 56,
+    "forks_count": 1637
   },
   {
     "full_name": "Advsol/iMISRESTCollection",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "imbhargav5/open-recorder",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "nexu-io/open-design",
-    "stargazers_count": 82025,
-    "open_issues_count": 703,
-    "forks_count": 9481
+    "stargazers_count": 82797,
+    "open_issues_count": 708,
+    "forks_count": 9573
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 26896,
-    "open_issues_count": 593,
-    "forks_count": 2088
+    "stargazers_count": 26971,
+    "open_issues_count": 597,
+    "forks_count": 2102
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 62821,
-    "open_issues_count": 566,
-    "forks_count": 4757
+    "stargazers_count": 63454,
+    "open_issues_count": 598,
+    "forks_count": 4811
   },
   {
     "full_name": "vercel-labs/agent-skills",
-    "stargazers_count": 29546,
-    "open_issues_count": 163,
-    "forks_count": 2648
+    "stargazers_count": 29637,
+    "open_issues_count": 164,
+    "forks_count": 2656
   },
   {
     "full_name": "alibaba/open-code-review",
-    "stargazers_count": 15045,
+    "stargazers_count": 16679,
     "open_issues_count": 61,
-    "forks_count": 1014
+    "forks_count": 1131
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 10843,
-    "open_issues_count": 260,
-    "forks_count": 1661
+    "stargazers_count": 10849,
+    "open_issues_count": 263,
+    "forks_count": 1662
   },
   {
     "full_name": "nolly-studio/cult-ui",
-    "stargazers_count": 6000,
+    "stargazers_count": 6007,
     "open_issues_count": 17,
-    "forks_count": 325
+    "forks_count": 326
   },
   {
     "full_name": "Augani/openreel-video",
-    "stargazers_count": 4575,
-    "open_issues_count": 24,
-    "forks_count": 629
+    "stargazers_count": 4622,
+    "open_issues_count": 25,
+    "forks_count": 639
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 93599,
-    "open_issues_count": 430,
-    "forks_count": 5348
-  },
-  {
-    "full_name": "juanfont/headscale",
-    "stargazers_count": 42203,
-    "open_issues_count": 142,
-    "forks_count": 2406
+    "stargazers_count": 94696,
+    "open_issues_count": 442,
+    "forks_count": 5420
   }
 ]
