@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "Layr-Labs/mlxfast-bonsai2-27b-engine",
+    "stargazers_count": 30,
+    "open_issues_count": 70,
+    "forks_count": 5
+  },
+  {
+    "full_name": "saitakarcesme/LocalBot",
+    "stargazers_count": 6,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
+    "full_name": "getopenscreen/openscreen",
+    "stargazers_count": 3336,
+    "open_issues_count": 46,
+    "forks_count": 214
+  },
+  {
     "full_name": "ralksta/ComfyUI-Photoshoot",
-    "stargazers_count": 140,
+    "stargazers_count": 142,
     "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "full_name": "zai-org/ZCode",
-    "stargazers_count": 6716,
+    "stargazers_count": 7101,
     "open_issues_count": 11,
-    "forks_count": 2004
+    "forks_count": 2147
   },
   {
     "full_name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-    "stargazers_count": 499,
-    "open_issues_count": 54,
-    "forks_count": 71
+    "stargazers_count": 560,
+    "open_issues_count": 58,
+    "forks_count": 83
   },
   {
     "full_name": "MiniMax-AI/minimax-code",
-    "stargazers_count": 1822,
-    "open_issues_count": 122,
-    "forks_count": 212
+    "stargazers_count": 1908,
+    "open_issues_count": 128,
+    "forks_count": 232
   },
   {
     "full_name": "blader/humanizer",
-    "stargazers_count": 51867,
-    "open_issues_count": 25,
-    "forks_count": 4152
+    "stargazers_count": 52737,
+    "open_issues_count": 2,
+    "forks_count": 4204
   },
   {
     "full_name": "MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
-    "stargazers_count": 1418,
+    "stargazers_count": 1435,
     "open_issues_count": 36,
-    "forks_count": 191
+    "forks_count": 194
   },
   {
     "full_name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
-    "stargazers_count": 626,
-    "open_issues_count": 87,
-    "forks_count": 116
+    "stargazers_count": 671,
+    "open_issues_count": 89,
+    "forks_count": 124
   },
   {
     "full_name": "wassermanproductions/wasserman-spark-director-h3-speed-recipe",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 266936,
-    "open_issues_count": 231,
-    "forks_count": 39890
+    "stargazers_count": 269194,
+    "open_issues_count": 236,
+    "forks_count": 40224
   },
   {
     "full_name": "Sumanth077/Hands-On-AI-Engineering",
-    "stargazers_count": 3700,
-    "open_issues_count": 9,
-    "forks_count": 897
+    "stargazers_count": 3746,
+    "open_issues_count": 10,
+    "forks_count": 907
   },
   {
     "full_name": "elie222/rakazo",
-    "stargazers_count": 2920,
-    "open_issues_count": 42,
-    "forks_count": 509
+    "stargazers_count": 3039,
+    "open_issues_count": 18,
+    "forks_count": 531
   },
   {
     "full_name": "CopilotKit/OpenBot",
-    "stargazers_count": 5524,
+    "stargazers_count": 5695,
     "open_issues_count": 19,
-    "forks_count": 721
+    "forks_count": 752
   },
   {
     "full_name": "humanlayer/skills",
-    "stargazers_count": 4482,
+    "stargazers_count": 4549,
     "open_issues_count": 7,
-    "forks_count": 142
+    "forks_count": 146
   },
   {
     "full_name": "duolahypercho/codex-router",
-    "stargazers_count": 3840,
-    "open_issues_count": 28,
-    "forks_count": 340
+    "stargazers_count": 3884,
+    "open_issues_count": 25,
+    "forks_count": 349
   },
   {
     "full_name": "andrewyng/openworker",
-    "stargazers_count": 18255,
-    "open_issues_count": 505,
-    "forks_count": 2579
+    "stargazers_count": 18357,
+    "open_issues_count": 514,
+    "forks_count": 2595
   },
   {
     "full_name": "can1357/oh-my-pi",
-    "stargazers_count": 33197,
-    "open_issues_count": 3176,
-    "forks_count": 3527
+    "stargazers_count": 33683,
+    "open_issues_count": 3283,
+    "forks_count": 3606
   },
   {
     "full_name": "General-Legal/legal-templates",
-    "stargazers_count": 1964,
+    "stargazers_count": 1974,
     "open_issues_count": 4,
-    "forks_count": 195
+    "forks_count": 194
   },
   {
     "full_name": "cordiverse/cordis",
-    "stargazers_count": 8799,
-    "open_issues_count": 57,
-    "forks_count": 548
+    "stargazers_count": 8871,
+    "open_issues_count": 75,
+    "forks_count": 553
   },
   {
     "full_name": "chaitanyagiri/munder-difflin",
-    "stargazers_count": 7920,
-    "open_issues_count": 231,
-    "forks_count": 1051
+    "stargazers_count": 8134,
+    "open_issues_count": 217,
+    "forks_count": 1090
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 90621,
-    "open_issues_count": 378,
-    "forks_count": 8956
+    "stargazers_count": 90884,
+    "open_issues_count": 375,
+    "forks_count": 8995
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 28112,
-    "open_issues_count": 1478,
-    "forks_count": 3106
+    "stargazers_count": 28206,
+    "open_issues_count": 1525,
+    "forks_count": 3127
   },
   {
     "full_name": "freestylefly/awesome-gpt-image-2",
-    "stargazers_count": 33488,
+    "stargazers_count": 33694,
     "open_issues_count": 32,
-    "forks_count": 3225
+    "forks_count": 3235
   },
   {
     "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 51430,
-    "open_issues_count": 117,
-    "forks_count": 7770
+    "stargazers_count": 51842,
+    "open_issues_count": 121,
+    "forks_count": 7819
   },
   {
     "full_name": "multica-ai/multica",
-    "stargazers_count": 51307,
-    "open_issues_count": 1676,
-    "forks_count": 6650
+    "stargazers_count": 51629,
+    "open_issues_count": 1711,
+    "forks_count": 6699
   },
   {
     "full_name": "YishenTu/claudian",
-    "stargazers_count": 15497,
-    "open_issues_count": 73,
-    "forks_count": 1041
+    "stargazers_count": 15528,
+    "open_issues_count": 68,
+    "forks_count": 1049
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 57457,
-    "open_issues_count": 117,
-    "forks_count": 9278
+    "stargazers_count": 57690,
+    "open_issues_count": 157,
+    "forks_count": 9354
   },
   {
     "full_name": "deepseek-ai/deepseek-harness",
-    "stargazers_count": 235199,
+    "stargazers_count": 239150,
     "open_issues_count": 0,
-    "forks_count": 28294
-  },
-  {
-    "full_name": "shadcn-ui/chatbot-template",
-    "stargazers_count": 947,
-    "open_issues_count": 4,
-    "forks_count": 104
-  },
-  {
-    "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 39464,
-    "open_issues_count": 123,
-    "forks_count": 4572
-  },
-  {
-    "full_name": "sourcebot-dev/sourcebot",
-    "stargazers_count": 3950,
-    "open_issues_count": 121,
-    "forks_count": 374
+    "forks_count": 28737
   }
 ]
