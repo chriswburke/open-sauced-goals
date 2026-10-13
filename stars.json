@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "morluto/rea",
+    "stargazers_count": 177803,
+    "open_issues_count": 560,
+    "forks_count": 42770
+  },
+  {
+    "full_name": "drowzeys/keys-Wasserman-Slate-AI-Studio-powered-by-TensorFold-Mac-DGXSpark",
+    "stargazers_count": 95,
+    "open_issues_count": 3,
+    "forks_count": 9
+  },
+  {
     "full_name": "storytold/photocraft",
-    "stargazers_count": 29637,
-    "open_issues_count": 376,
-    "forks_count": 4153
+    "stargazers_count": 54995,
+    "open_issues_count": 1313,
+    "forks_count": 9220
   },
   {
     "full_name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
-    "stargazers_count": 334,
-    "open_issues_count": 28,
-    "forks_count": 65
+    "stargazers_count": 398,
+    "open_issues_count": 50,
+    "forks_count": 74
   },
   {
     "full_name": "MiaAI-Lab/sparkDash",
-    "stargazers_count": 565,
-    "open_issues_count": 23,
-    "forks_count": 115
+    "stargazers_count": 671,
+    "open_issues_count": 16,
+    "forks_count": 137
   },
   {
     "full_name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
-    "stargazers_count": 216,
-    "open_issues_count": 23,
-    "forks_count": 36
+    "stargazers_count": 241,
+    "open_issues_count": 38,
+    "forks_count": 38
   },
   {
     "full_name": "Layr-Labs/mlxfast-bonsai2-27b-engine",
     "stargazers_count": 34,
-    "open_issues_count": 3,
-    "forks_count": 6
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "getopenscreen/openscreen",
-    "stargazers_count": 3806,
-    "open_issues_count": 62,
-    "forks_count": 241
+    "stargazers_count": 4182,
+    "open_issues_count": 31,
+    "forks_count": 266
   },
   {
     "full_name": "ralksta/ComfyUI-Photoshoot",
@@ -43,39 +55,39 @@
   },
   {
     "full_name": "zai-org/ZCode",
-    "stargazers_count": 7574,
+    "stargazers_count": 7750,
     "open_issues_count": 11,
-    "forks_count": 2309
+    "forks_count": 2377
   },
   {
     "full_name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-    "stargazers_count": 602,
+    "stargazers_count": 601,
     "open_issues_count": 65,
     "forks_count": 90
   },
   {
     "full_name": "MiniMax-AI/minimax-code",
-    "stargazers_count": 2003,
-    "open_issues_count": 157,
-    "forks_count": 253
+    "stargazers_count": 2027,
+    "open_issues_count": 166,
+    "forks_count": 255
   },
   {
     "full_name": "blader/humanizer",
-    "stargazers_count": 55025,
-    "open_issues_count": 4,
-    "forks_count": 4351
+    "stargazers_count": 56338,
+    "open_issues_count": 3,
+    "forks_count": 4457
   },
   {
     "full_name": "MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
-    "stargazers_count": 1450,
+    "stargazers_count": 1453,
     "open_issues_count": 41,
-    "forks_count": 195
+    "forks_count": 197
   },
   {
     "full_name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
-    "stargazers_count": 723,
-    "open_issues_count": 83,
-    "forks_count": 132
+    "stargazers_count": 725,
+    "open_issues_count": 82,
+    "forks_count": 135
   },
   {
     "full_name": "wassermanproductions/wasserman-spark-director-h3-speed-recipe",
@@ -85,98 +97,86 @@
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 275560,
-    "open_issues_count": 272,
-    "forks_count": 41133
+    "stargazers_count": 278127,
+    "open_issues_count": 168,
+    "forks_count": 41448
   },
   {
     "full_name": "Sumanth077/Hands-On-AI-Engineering",
-    "stargazers_count": 3948,
-    "open_issues_count": 10,
-    "forks_count": 952
+    "stargazers_count": 3970,
+    "open_issues_count": 11,
+    "forks_count": 957
   },
   {
     "full_name": "elie222/rakazo",
-    "stargazers_count": 3541,
-    "open_issues_count": 21,
-    "forks_count": 612
+    "stargazers_count": 3836,
+    "open_issues_count": 36,
+    "forks_count": 664
   },
   {
     "full_name": "CopilotKit/OpenBot",
-    "stargazers_count": 6243,
-    "open_issues_count": 21,
-    "forks_count": 850
+    "stargazers_count": 6419,
+    "open_issues_count": 19,
+    "forks_count": 874
   },
   {
     "full_name": "humanlayer/skills",
-    "stargazers_count": 5138,
+    "stargazers_count": 5232,
     "open_issues_count": 9,
-    "forks_count": 168
+    "forks_count": 171
   },
   {
     "full_name": "duolahypercho/codex-router",
-    "stargazers_count": 3927,
-    "open_issues_count": 16,
-    "forks_count": 361
+    "stargazers_count": 3938,
+    "open_issues_count": 22,
+    "forks_count": 366
   },
   {
     "full_name": "andrewyng/openworker",
-    "stargazers_count": 18481,
-    "open_issues_count": 511,
-    "forks_count": 2619
+    "stargazers_count": 18508,
+    "open_issues_count": 506,
+    "forks_count": 2621
   },
   {
     "full_name": "can1357/oh-my-pi",
-    "stargazers_count": 34721,
-    "open_issues_count": 3592,
-    "forks_count": 3768
+    "stargazers_count": 35249,
+    "open_issues_count": 3828,
+    "forks_count": 3839
   },
   {
     "full_name": "General-Legal/legal-templates",
-    "stargazers_count": 2654,
+    "stargazers_count": 2917,
     "open_issues_count": 6,
-    "forks_count": 280
+    "forks_count": 312
   },
   {
     "full_name": "cordiverse/cordis",
-    "stargazers_count": 9090,
-    "open_issues_count": 76,
-    "forks_count": 575
+    "stargazers_count": 9156,
+    "open_issues_count": 62,
+    "forks_count": 582
   },
   {
     "full_name": "HarnessMD/munder-difflin",
-    "stargazers_count": 8604,
-    "open_issues_count": 237,
-    "forks_count": 1245
+    "stargazers_count": 8710,
+    "open_issues_count": 242,
+    "forks_count": 1191
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 93276,
-    "open_issues_count": 375,
-    "forks_count": 9153
+    "stargazers_count": 93936,
+    "open_issues_count": 376,
+    "forks_count": 9218
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 28371,
-    "open_issues_count": 1758,
-    "forks_count": 3172
+    "stargazers_count": 28457,
+    "open_issues_count": 1815,
+    "forks_count": 3196
   },
   {
     "full_name": "freestylefly/awesome-gpt-image-2",
-    "stargazers_count": 34131,
+    "stargazers_count": 34401,
     "open_issues_count": 28,
-    "forks_count": 3257
-  },
-  {
-    "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 53836,
-    "open_issues_count": 29,
-    "forks_count": 8008
-  },
-  {
-    "full_name": "multica-ai/multica",
-    "stargazers_count": 52248,
-    "open_issues_count": 1841,
-    "forks_count": 6804
+    "forks_count": 3277
   }
 ]
