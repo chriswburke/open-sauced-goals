@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "vstorm-co/agenticos",
+    "stargazers_count": 430,
+    "open_issues_count": 35,
+    "forks_count": 77
+  },
+  {
     "full_name": "ModernRelay/omnigraph",
-    "stargazers_count": 2849,
-    "open_issues_count": 188,
-    "forks_count": 330
+    "stargazers_count": 3105,
+    "open_issues_count": 202,
+    "forks_count": 340
   },
   {
     "full_name": "t3dotgg/tstack",
-    "stargazers_count": 4055,
-    "open_issues_count": 17,
-    "forks_count": 308
+    "stargazers_count": 4199,
+    "open_issues_count": 19,
+    "forks_count": 329
   },
   {
     "full_name": "rinste/turbo-mlx",
-    "stargazers_count": 199,
-    "open_issues_count": 14,
-    "forks_count": 23
+    "stargazers_count": 261,
+    "open_issues_count": 19,
+    "forks_count": 30
   },
   {
     "full_name": "dograh-hq/dograh",
-    "stargazers_count": 6161,
-    "open_issues_count": 122,
-    "forks_count": 1591
+    "stargazers_count": 6231,
+    "open_issues_count": 123,
+    "forks_count": 1609
   },
   {
     "full_name": "steipete/CodexBar",
-    "stargazers_count": 23184,
-    "open_issues_count": 28,
-    "forks_count": 2235
+    "stargazers_count": 23229,
+    "open_issues_count": 51,
+    "forks_count": 2242
   },
   {
     "full_name": "mksglu/context-mode",
-    "stargazers_count": 34186,
-    "open_issues_count": 14,
-    "forks_count": 2350
+    "stargazers_count": 34313,
+    "open_issues_count": 17,
+    "forks_count": 2359
   },
   {
     "full_name": "The-PR-Agent/pr-agent",
-    "stargazers_count": 16300,
-    "open_issues_count": 41,
-    "forks_count": 2208
+    "stargazers_count": 16446,
+    "open_issues_count": 40,
+    "forks_count": 2227
   },
   {
     "full_name": "microsoft/TokenEconomizer",
-    "stargazers_count": 7171,
-    "open_issues_count": 27,
-    "forks_count": 469
+    "stargazers_count": 7776,
+    "open_issues_count": 19,
+    "forks_count": 531
   },
   {
     "full_name": "dedene/omacy",
@@ -55,128 +61,122 @@
   },
   {
     "full_name": "anomalyco/hex",
-    "stargazers_count": 7141,
-    "open_issues_count": 222,
-    "forks_count": 460
+    "stargazers_count": 7593,
+    "open_issues_count": 226,
+    "forks_count": 491
   },
   {
     "full_name": "stackblitz-labs/bolt.diy",
-    "stargazers_count": 20095,
-    "open_issues_count": 1,
-    "forks_count": 10610
+    "stargazers_count": 20111,
+    "open_issues_count": 3,
+    "forks_count": 10619
   },
   {
     "full_name": "oblien/openship",
-    "stargazers_count": 15338,
-    "open_issues_count": 168,
-    "forks_count": 1412
+    "stargazers_count": 15371,
+    "open_issues_count": 188,
+    "forks_count": 1418
   },
   {
     "full_name": "deepseek-ai/dsh-superagent-prototype",
-    "stargazers_count": 23505,
+    "stargazers_count": 23960,
     "open_issues_count": 0,
-    "forks_count": 2886
+    "forks_count": 2971
   },
   {
     "full_name": "dougliell/Cheapsfield",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "google/elephant-goldfish-model",
-    "stargazers_count": 20394,
-    "open_issues_count": 120,
-    "forks_count": 1508
+    "stargazers_count": 21455,
+    "open_issues_count": 131,
+    "forks_count": 1588
   },
   {
     "full_name": "different-ai/openwork",
-    "stargazers_count": 24546,
-    "open_issues_count": 421,
-    "forks_count": 2493
+    "stargazers_count": 24568,
+    "open_issues_count": 409,
+    "forks_count": 2494
   },
   {
     "full_name": "Pomerado/pomerado",
-    "stargazers_count": 1790,
-    "open_issues_count": 79,
-    "forks_count": 155
+    "stargazers_count": 1803,
+    "open_issues_count": 78,
+    "forks_count": 157
   },
   {
     "full_name": "coda0HQ/open-artifacts",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 15,
     "forks_count": 8
   },
   {
     "full_name": "plannotator/artifact-server",
-    "stargazers_count": 278,
+    "stargazers_count": 292,
     "open_issues_count": 46,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "nightly-labs/openbot",
-    "stargazers_count": 8309,
-    "open_issues_count": 3066,
-    "forks_count": 814
+    "stargazers_count": 9239,
+    "open_issues_count": 3549,
+    "forks_count": 888
   },
   {
     "full_name": "multica-ai/andrej-karpathy-skills",
-    "stargazers_count": 233749,
+    "stargazers_count": 234508,
     "open_issues_count": 138,
-    "forks_count": 23247
+    "forks_count": 23306
   },
   {
     "full_name": "miantiao-me/Sink",
-    "stargazers_count": 7284,
+    "stargazers_count": 7288,
     "open_issues_count": 34,
-    "forks_count": 5403
+    "forks_count": 5408
   },
   {
     "full_name": "Asymptote-Labs/agent-beacon",
-    "stargazers_count": 3539,
-    "open_issues_count": 26,
-    "forks_count": 319
+    "stargazers_count": 3570,
+    "open_issues_count": 32,
+    "forks_count": 323
   },
   {
     "full_name": "abue-ammar/tinycast",
-    "stargazers_count": 9499,
-    "open_issues_count": 3,
-    "forks_count": 606
+    "stargazers_count": 9592,
+    "open_issues_count": 1,
+    "forks_count": 611
   },
   {
     "full_name": "morluto/rea",
-    "stargazers_count": 464231,
-    "open_issues_count": 1542,
-    "forks_count": 113613
+    "stargazers_count": 470065,
+    "open_issues_count": 1348,
+    "forks_count": 114829
   },
   {
     "full_name": "Keys-Wasserman/Imagination-Studio-by-keys-Wasserman",
-    "stargazers_count": 1114,
-    "open_issues_count": 0,
-    "forks_count": 212
+    "stargazers_count": 1195,
+    "open_issues_count": 5,
+    "forks_count": 221
   },
   {
     "full_name": "storytold/photocraft",
-    "stargazers_count": 79838,
-    "open_issues_count": 5496,
-    "forks_count": 14097
+    "stargazers_count": 80532,
+    "open_issues_count": 5681,
+    "forks_count": 14193
   },
   {
     "full_name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
-    "stargazers_count": 533,
-    "open_issues_count": 77,
-    "forks_count": 108
+    "stargazers_count": 536,
+    "open_issues_count": 78,
+    "forks_count": 109
   },
   {
     "full_name": "MiaAI-Lab/sparkDash",
-    "stargazers_count": 893,
-    "open_issues_count": 42,
-    "forks_count": 214
-  },
-  {
-    "full_name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
-    "stargazers_count": 409,
-    "open_issues_count": 18,
-    "forks_count": 56
+    "stargazers_count": 909,
+    "open_issues_count": 51,
+    "forks_count": 220
   }
 ]
